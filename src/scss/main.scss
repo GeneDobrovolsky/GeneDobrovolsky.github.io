@@ -1,32 +1,47 @@
-@charset 'UTF-8';
+/*!
+ * Bootstrap v4.0.0 (https://getbootstrap.com)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
 
-// 1. Configuration and helpers
-@import
-  'abstracts/variables',
-  'abstracts/functions',
-  'abstracts/mixins';
+@import "functions";
+@import "variables";
+@import "mixins";
+//@import "root";
+@import "normalize"; 
+@import "type";
+@import "images";
+@import "code";
+@import "grid";
+@import "tables";
+//@import "forms";
+//@import "buttons";
+@import "transitions";
+//@import "dropdown";
+//@import "button-group";
+//@import "input-group";
+//@import "custom-forms";
+@import "nav";
+//@import "navbar";
+//@import "card";
+//@import "breadcrumb";
+//@import "pagination";
+//@import "badge";
+//@import "jumbotron";
+//@import "alert";
+//@import "progress";
+@import "media";
+@import "list-group";
+//@import "close";
+//@import "modal";
+//@import "tooltip";
+//@import "popover";
+//@import "carousel";
+@import "utilities";
+//@import "print";
 
-// 2. Vendors
-@import
-  'vendor/normalize';
 
-// 3. Base stuff
-@import
-  'base/base',
-  'base/typography',
-  'base/helpers';
-
-// 4. Layout-related sections
-@import
-  'layout/header',
-  'layout/footer';
-
-// 5. Components
-@import
-  'components/button',
-  'components/link';
-
-// 6. Page-specific styles
-@import
-  'pages/home',
-  'pages/post';
+// Overrides
+@import "assets/home";
+@import "assets/post";
