@@ -1,16 +1,19 @@
-{{ partial "header/head.html" . }}
-  {{ partial "header/site-header.html" . }}
-  <main>
-    {{ range first 10 .Data.Pages }}
-    <article>
-      <h1>
-        {{ .Title }}
-      </h1>
-      <h3>
-        {{ .Params.summary }}
-      </h3>
-      <a href="{{ .Permalink }}">Read article</a>
-    </article>
-    {{ end }}
-  </main>
-  {{ partial "footer/site-footer.html" . }}
+{{ partial "dom/head.html" . }} 
+{{ partial "header.html" . }}
+
+<main>
+  {{ range first 10 .Data.Pages }}
+  <article>
+    <h1>
+      {{ .Title }}
+    </h1>
+    <h3>
+      {{ .Params.summary }}
+    </h3>
+    <a href="{{ .Permalink }}">Read article</a>
+  </article>
+  {{ end }}
+</main>
+
+{{ partial "footer.html" . }}
+{{ partial "dom/tail.html" . }} 

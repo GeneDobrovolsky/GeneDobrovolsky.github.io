@@ -51,7 +51,7 @@ Around 20 screens, also very rough.
 
 Some custom UI elements start to appear. I’m still figuring out how the navigation should work, trying different layouts without getting into details. In case there’s an idea that needs verification and simply trying to imagine it isn’t enough, prototyping kicks in. Although, I don’t push code to production, I have some front-end background and it alows me to prototype with Framer.js, which is teriffic!
 
-![Image 7](/images/post_1/7.jpeg)
+![Image 7](/images/post_1/7.png)
 
 An important part of the whole process is collaboration with development team. It’s something I really care about and want as much as it’s necessary in my workflow. However, there were cases with agencies when they didn’t like the idea as much, and would only dedicate a specific amount of time a week or come up with other reasons not to do so, wich sucked.
 
@@ -99,7 +99,7 @@ Any custom interactions that might play an important role in how the app is stru
 
 With that done, I can talk to developers.
 
-![Image 15](/images/post_1/15.jpeg)
+![Image 15](/images/post_1/15.png)
 
 I usually prototype one thing at a time and I’m not trying to have beatiful code, so it doesn’t take a lot of time, which is great. Normally, it’s under 100 lines. Oftentimes there are bugs, but as long as the idea is communicated, I’m good. But that only goes for minor features. For stuff like [Twitter Video](https://blog.twitter.com/2015/now-on-twitter-group-direct-messages-and-mobile-video-capture) it’s a totally [different story](http://paulstamatiou.com/twitter-video/).
 I’ve yet to learn a lot, because I don’t feel as much freedom as Framer.js alows one to, but it’s not gonna be like that for long.
