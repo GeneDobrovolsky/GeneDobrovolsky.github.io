@@ -1,0 +1,12 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the link component.
+// -----------------------------------------------------------------------------
+
+a {
+	color: #0074D9;
+	text-decoration: none;
+	outline: 0;
+  
+	&:hover, &:focus {
+		color: #40a6ff; }
+  }

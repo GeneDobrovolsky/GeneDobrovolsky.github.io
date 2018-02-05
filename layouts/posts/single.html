@@ -1,15 +1,9 @@
 {{ partial "header/head.html" . }} {{ partial "header/site-header.html" . }}
 <main>
   <article>
-   
-   <br><br>
-   
-    {{ partial "content/typography.html" . }}
-   
-   <br><br>
-   
-   
     <h1>{{ .Title }}</h1>
+    
+    {{ partial "content/typography.html" . }}
     
     {{ .Content }}
   </article>
