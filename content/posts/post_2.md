@@ -5,13 +5,13 @@ date: 2018-01-23T17:19:24+02:00
 draft: true
 ---
 
-{{< figure src="/images/post_2/1.jpeg" title="New capabilities in Health Records help patients see medical records from multiple providers." >}}
+{{< figure class="" src="/images/post_2/1.jpeg" title="New capabilities in Health Records help patients see medical records from multiple providers." >}}
 
 Apple today introduced a significant update to the Health app with the [iOS 11.3 beta](https://www.apple.com/newsroom/2018/01/apple-previews-ios-11-3/), debuting a feature for customers to see their medical records right on their iPhone. The updated Health Records section within the Health app brings together hospitals, clinics and the existing Health app to make it easy for consumers to see their available medical data from multiple providers whenever they choose. Johns Hopkins Medicine, Cedars-Sinai, Penn Medicine and other participating hospitals and clinics are among the first to make this beta feature available to their patients.
 
 In the past, patients’ medical records were held in multiple locations, requiring patients to log into each care provider’s website and piece together the information manually. Apple worked with the healthcare community to take a consumer-friendly approach, creating Health Records based on FHIR (Fast Healthcare Interoperability Resources), a standard for transferring electronic medical records.
 
-{{< figure src="/images/post_2/2.jpeg" title="Medical records are organized into a clear, easy to understand timeline view." >}}
+{{< figure class="" src="/images/post_2/2.jpeg" title="Medical records are organized into a clear, easy to understand timeline view." >}}
 
 Now, consumers will have medical information from various institutions organized into one view covering allergies, conditions, immunizations, lab results, medications, procedures and vitals, and will receive notifications when their data is updated. Health Records data is encrypted and protected with the user’s iPhone passcode.
 

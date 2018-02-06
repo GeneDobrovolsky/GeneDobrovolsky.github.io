@@ -19,7 +19,7 @@ Normally, it’s not the case, but sometimes there’s no document outlining the
 - Business model
 - Marketing strategy, competitors
 - Advantages, etc.
-- 
+
 I remember myself coming back to such document over and over, on several projects. It just helps shape up the basic ideas of how the product should look and feel to start making informed decisions at the earliest stages of development.
 
 There’s also **research** that fits somewhere in between this and the next step, but it’s a way too often written about and pretty generic topic, so I’ll just skip it.
@@ -69,28 +69,29 @@ Production design contains all kinds of stuff needed to start building the front
 #### 1. Grid system
 
 ![Image 9](/images/post_1/9.jpeg)
-
-#### 2. Set of UI elements
-
 ![Image 10](/images/post_1/10.jpeg)
 
-#### Screens and viewes for phones, tablets, laptops and, when needed, desktops.
+#### 2. Set of UI elements
 
 ![Image 11](/images/post_1/11.jpeg)
 ![Image 12](/images/post_1/12.jpeg)
 
+#### Screens and viewes for phones, tablets, laptops and, when needed, desktops.
+
+
+
 The screen count gets to about 150 screens. It really becomes hard to manage that many screens, while still having them in one document to be able to take advantage of shared styles and symbols. Luckily, it’s still possible in Sketch with its pages and artboards. Love Sketch for that, but there’s still room to improve.
 
-![Image 12](/images/post_1/12.jpeg)
+![Image 12](/images/post_1/13.jpeg)
 
 ### Marvel or Invision prototype
 I’m just linking all the exported static screens from Sketch (there’s a plugin that makes this process a pleasure, including every next design update). I’m just drawing squares on screens, defining actions on them and linking to other screens. That’s the first thing that people can lay their hands on.
 
-![Image 13](/images/post_1/13.jpeg)
+![Image 13](/images/post_1/14.jpeg)
 
 It becomes a medium for further communication of design changes, because tools like [Marvel](https://marvelapp.com) and [InVision](https://www.invisionapp.com) allow for collaboration, user-testing, it’s recording and a lot of other cool stuff.
 
-![Image 14](/images/post_1/14.jpeg)
+![Image 14](/images/post_1/15.png)
 
 ### Framer.js prototypes
 Any custom interactions that might play an important role in how the app is structured (e.g. a very specific navigaiton for a specific type of content that defines the layout) should be tested, preferably in a short period of time and low cost. Plus there are performance issues. This is where tools like Principle or [Framer](https://framer.com) (although, there are many more) come in very handy.
@@ -99,7 +100,7 @@ Any custom interactions that might play an important role in how the app is stru
 
 With that done, I can talk to developers.
 
-![Image 15](/images/post_1/15.png)
+![Image 15](/images/post_1/16.png)
 
 I usually prototype one thing at a time and I’m not trying to have beatiful code, so it doesn’t take a lot of time, which is great. Normally, it’s under 100 lines. Oftentimes there are bugs, but as long as the idea is communicated, I’m good. But that only goes for minor features. For stuff like [Twitter Video](https://blog.twitter.com/2015/now-on-twitter-group-direct-messages-and-mobile-video-capture) it’s a totally [different story](http://paulstamatiou.com/twitter-video/).
 I’ve yet to learn a lot, because I don’t feel as much freedom as Framer.js alows one to, but it’s not gonna be like that for long.
