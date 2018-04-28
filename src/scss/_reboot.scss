@@ -167,6 +167,8 @@ dfn {
 b,
 strong {
   font-weight: bolder; // Add the correct font weight in Chrome, Edge, and Safari
+  letter-spacing: 0.3px;
+  -webkit-font-smoothing: antialiased;
 }
 // stylelint-enable font-weight-notation
 
@@ -200,10 +202,12 @@ a {
   text-decoration: $link-decoration;
   background-color: transparent; // Remove the gray background on active links in IE 10.
   -webkit-text-decoration-skip: objects; // Remove gaps in links underline in iOS 8+ and Safari 8+.
+  border-bottom: 2px solid hsla(40, 10%, 90%, 1);
 
   @include hover {
-    color: $link-hover-color;
+//    color: $link-hover-color;
     text-decoration: $link-hover-decoration;
+    border-bottom: 2px solid hsla(40, 10%, 80%, 1);
   }
 }
 

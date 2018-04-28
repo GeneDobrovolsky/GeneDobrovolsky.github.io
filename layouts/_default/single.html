@@ -1,0 +1,19 @@
+{{ partial "dom/head.html" . }} 
+{{ partial "header.html" . }}
+
+<main>
+  <article>
+   
+    <h6 class="date">{{ .PublishDate.Format "January 2, 2006" }}</h6>
+   
+    <h2 class="single-headline">{{ .Title }}</h2>
+    
+    <h5 class="single-summary">{{ .Params.summary }}</h5>
+    
+    {{ .Content }}
+    
+  </article>
+</main>
+
+{{ partial "footer.html" . }}
+{{ partial "dom/tail.html" . }} 

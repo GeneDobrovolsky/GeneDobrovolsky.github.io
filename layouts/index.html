@@ -2,17 +2,37 @@
 {{ partial "header.html" . }}
 
 <main>
-  {{ range first 10 .Data.Pages }}
-  <article>
-    <h1>
-      {{ .Title }}
-    </h1>
-    <h3>
-      {{ .Params.summary }}
-    </h3>
-    <a href="{{ .Permalink }}">Read article</a>
-  </article>
-  {{ end }}
+  <h2 class="hero">I’m a self-taught designer focusing on UX/UI for web and mobile. Currently at <a class="" href="https://firstagenda.com" target="_blank">First Agenda</a> building solutions to unproductive meetings. Based in Warsaw, Poland.</h2>
+  <section class="work-thumbnails row mx-0">
+    <a class="col-6 mx-0 px-0" href="/">
+      <img class="img-fluid" src="images/thumbnails/5.jpg">
+      <div class="thumbnail-caption">
+        <h5 class="thumbnail-title">Motorola</h5>
+        <div class="thumbnail-skill">Design & UX</div>
+      </div>
+    </a>
+    <a class="col-6 mx-0 px-0" href="/">
+      <img class="img-fluid" src="images/thumbnails/3.jpg">
+      <div class="thumbnail-caption">
+        <h5 class="thumbnail-title">Dove</h5>
+        <div class="thumbnail-skill">Art Direction, Design & UX</div>
+      </div>
+    </a>
+    <a class="col-6 mx-0 px-0" href="/">
+      <img class="img-fluid" src="images/thumbnails/4.jpg">
+      <div class="thumbnail-caption">
+        <h5 class="thumbnail-title">Mercedes-Benz</h5>
+        <div class="thumbnail-skill">Collection of works</div>
+      </div>
+    </a>
+    <a class="col-6 mx-0 px-0" href="/">
+      <img class="img-fluid" src="images/thumbnails/2.jpg">
+      <div class="thumbnail-caption">
+        <h5 class="thumbnail-title">Chanel</h5>
+        <div class="thumbnail-skill">Design & UX</div>
+      </div>
+    </a>
+  </section>
 </main>
 
 {{ partial "footer.html" . }}

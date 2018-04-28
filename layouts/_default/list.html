@@ -1,0 +1,17 @@
+{{ partial "dom/head.html" . }} 
+{{ partial "header.html" . }}
+
+<main>
+  <article>
+    {{ range .Data.Pages }}
+    <div class="article">
+      <h2 class="single-title">{{ .Title }}</h2>
+      <h5 class="single-summary">{{ .Params.summary }}</h5>
+      <p><a href="{{ .Permalink }}">Read article</a></p>
+    </div>
+    {{ end }}
+  </article>
+</main>
+
+{{ partial "footer.html" . }}
+{{ partial "dom/tail.html" . }}
