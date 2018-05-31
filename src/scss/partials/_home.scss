@@ -81,10 +81,19 @@ html {
 }
 
 
+@media only screen and (max-width: 640px){
+
+  .thumbnail-caption {
+    padding: 2rem 1.6rem 4rem;
+  }
+  
+}
 
 // Additional breakpoint for the Home page
 @media only screen and (min-width: 1600px){
+  
   .work-thumbnails a {
     @include make-col(3);
   }
+  
 }
