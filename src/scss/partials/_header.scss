@@ -41,6 +41,11 @@ header.nav {
     
   }
   
+  .nav-active {
+    font-weight: 500;
+    color: #222;
+  }
+  
 }
 
 @media only screen and (max-width: 640px){

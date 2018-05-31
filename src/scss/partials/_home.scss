@@ -40,25 +40,28 @@ html {
     border: none;
     background-color: white;
     transition: all .3s ease;
+    
     &:hover {
       background-color: #fafafa;
+      img {
+        transform: scale(1.03);
+        opacity: 0.95;
+
+        &:active {
+          opacity: 0.90;
+        }
+      }
     }
     &:active {
       transition: all .2s ease;
       background-color: #fff;
-//      .thumbnail-caption {background-color: hsl(0, 0%, 97%);}  
     }
+    
     img {
       transition: all .3s ease;
       transform: scale(1.01);
-      &:hover {
-        transform: scale(1.03);
-        opacity: 0.95;
-      }
-      &:active {
-        opacity: 0.90;
-      }
     }
+    
   }
 }
 
@@ -67,7 +70,8 @@ html {
 }
 
 .thumbnail-title {
-  font-weight: 400;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
 }
 
 .thumbnail-caption {
