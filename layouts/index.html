@@ -1,39 +1,64 @@
-{{ partial "dom/head.html" . }} 
-{{ partial "header.html" . }}
+{{ partial "dom/head.html" . }} {{ partial "header.html" . }}
 
 <main>
+  <!--
   <h2 class="hero">I’m a self-taught designer focusing on UX/UI for web and mobile. Currently at <a class="" href="https://firstagenda.com" target="_blank">First Agenda</a> building solutions to unproductive meetings. Based in Warsaw, Poland.</h2>
+  <h2 class="hero-h">Selected Works</h2>
+-->
   <section class="work-thumbnails row mx-0">
-    <a class="col-6 mx-0 px-0" href="/">
-      <img class="img-fluid" src="images/thumbnails/5.jpg">
+    <a class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0" href="/works/work_5/">
+      <div class="tumbnail-clipping">
+        <img class="img-fluid" src="images/work_5/thumbnail.jpg"></div>
       <div class="thumbnail-caption">
-        <h5 class="thumbnail-title">Motorola</h5>
+        <h5 class="thumbnail-title">First Agenda</h5>
         <div class="thumbnail-skill">Design & UX</div>
       </div>
     </a>
-    <a class="col-6 mx-0 px-0" href="/">
-      <img class="img-fluid" src="images/thumbnails/3.jpg">
+    <a class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0" href="/">
+      <div class="tumbnail-clipping">
+        <img class="img-fluid" src="images/work_4/thumbnail.jpg"></div>
       <div class="thumbnail-caption">
-        <h5 class="thumbnail-title">Dove</h5>
+        <h5 class="thumbnail-title">Wiredrive</h5>
         <div class="thumbnail-skill">Art Direction, Design & UX</div>
       </div>
     </a>
-    <a class="col-6 mx-0 px-0" href="/">
-      <img class="img-fluid" src="images/thumbnails/4.jpg">
+    <a class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0" href="/">
+      <div class="tumbnail-clipping">
+        <img class="img-fluid" src="images/work_3/thumbnail.jpg"></div>
       <div class="thumbnail-caption">
-        <h5 class="thumbnail-title">Mercedes-Benz</h5>
+        <h5 class="thumbnail-title">Velvet Ropes</h5>
         <div class="thumbnail-skill">Collection of works</div>
       </div>
     </a>
-    <a class="col-6 mx-0 px-0" href="/">
-      <img class="img-fluid" src="images/thumbnails/2.jpg">
+    <a class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0" href="/">
+      <div class="tumbnail-clipping">
+        <img class="img-fluid" src="images/work_2/thumbnail.jpg"></div>
       <div class="thumbnail-caption">
-        <h5 class="thumbnail-title">Chanel</h5>
+        <h5 class="thumbnail-title">Tripopotamus</h5>
+        <div class="thumbnail-skill">Design & UX</div>
+      </div>
+    </a>
+    <a class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0" href="/">
+      <div class="tumbnail-clipping">
+        <img class="img-fluid" src="images/work_1/thumbnail.jpg"></div>
+      <div class="thumbnail-caption">
+        <h5 class="thumbnail-title">Domesting</h5>
         <div class="thumbnail-skill">Design & UX</div>
       </div>
     </a>
   </section>
+  <!--  <h2 class="hero-h">Recent Posts</h2>-->
+  <!--
+  <article>
+    {{ range first 4 .Data.Pages }}
+    <div class="article">
+      <h2 class="single-title">{{ .Title }}</h2>
+      <h5 class="single-summary">{{ .Params.summary }}</h5>
+      <p><a href="{{ .Permalink }}">Read article</a></p>
+    </div>
+    {{ end }}
+  </article>
+-->
 </main>
 
-{{ partial "footer.html" . }}
-{{ partial "dom/tail.html" . }} 
+{{ partial "footer.html" . }} {{ partial "dom/tail.html" . }}

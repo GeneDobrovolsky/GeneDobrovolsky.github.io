@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Eugene Dobrovoslky"
+title = "Eugene Dobrovolsky"
 
 [blackfriday]
 hrefTargetBlank = true

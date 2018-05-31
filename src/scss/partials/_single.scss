@@ -1,47 +1,13 @@
-html {
-  background-color: $black;
-}
+//
+// Single, post, case study
+//
 
-body:after {
-    content: '';
-    position: fixed;
-    top: -50%;
-    right: -50%;
-    bottom: -50%;
-    left: -50%;
-    z-index: -1;
-    background: #000000;
-}
 
-::-moz-selection { background: $gray-500; color: $white;}
-::selection { background: $gray-800; color: $white;}
 
-.hero {
-  padding: 2rem 3.75rem 8rem;
-  line-height: 1.4;
-  max-width: 960px;
-  font-weight: 300;
-  color: $gray-500;
-}
-
-.work-thumbnails {
-  width: 100%;
-  margin-bottom: 8rem;
-  
-  a {
-    border: none;
-      img:hover {
-          opacity: 0.95;
-        }
-  }
-}
-
-.thumbnail-caption {
-  padding: 2rem 3.75rem 4rem;
-}
-
-.thumbnail-skill {
-  color: $gray-500;
+body {
+//  font-variant-ligatures: common-ligatures contextual;
+//  font-feature-settings: "liga";
+  letter-spacing: 0.1px;
 }
 
 
@@ -59,6 +25,12 @@ article {
     max-width: 580px;
     margin-right: auto;
     margin-left: auto;
+  }
+  
+  @media only screen and (max-width: 640px){
+     p, ul, ol, dl, h1, h2, h3, h4, h5, h6, figure, figcaption, cite, pre, .table {
+      padding: 0px 1.6rem;
+    }
   }
   
   h3 {
@@ -79,8 +51,8 @@ article {
   }
 
   figure {
-    margin-top: 2.5rem;
-    margin-bottom: 2.5rem;
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
   }
   
   figcaption {

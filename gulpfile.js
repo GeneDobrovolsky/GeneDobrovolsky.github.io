@@ -22,10 +22,10 @@ gulp.task("scss", function () {
 
 // Hash images
 gulp.task("images", function () {
-    del(["static/images/**/*", "content/post/images/**/*"])
+    del(["static/images/**/*", "content/posts/images/**/*"])
     gulp.src("src/images/**/*.+(png|jpg|jpeg|gif|svg)")
         .pipe(gulp.dest("static/images"))
-        .pipe(gulp.dest("content/post/images"))
+        .pipe(gulp.dest("content/posts/images"))
 })
 
 
