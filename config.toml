@@ -21,4 +21,4 @@ hrefTargetBlank = true
     name = "About"
     weight = 3
     identifier = "about"
-    url = "/about/"
+    url = "/about/about"

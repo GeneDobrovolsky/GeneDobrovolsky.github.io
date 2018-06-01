@@ -13,10 +13,14 @@ header.nav {
     color: $gray-500;
     font-size: 1.2rem;
     border-bottom: none;
+    transition: all .05s ease;
 
     &:hover,
     &:focus {
       color: $black;
+    }
+    &:active {
+      opacity: 0.5;
     }
   }
   
@@ -44,6 +48,7 @@ header.nav {
   .nav-active {
     font-weight: 500;
     color: #222;
+    -webkit-font-smoothing: antialiased;
   }
   
 }

@@ -6,7 +6,7 @@ draft: true
 markup: mmark
 ---
 
-{.col-md-10 .col-xl-8 .p-0}![](/images/work_5/2.jpg)
+{.col-md-10 .col-xl-6 .p-0}![](/images/work_5/2.jpg)
 
 The average employee spends 37% of their work time in meetings. When those meetings are ineffective, that adds up to a lot of wasted time and money.
 
