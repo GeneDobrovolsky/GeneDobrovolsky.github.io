@@ -3,6 +3,8 @@ title: "First Agenda"
 summary: "Meetings made productive"
 date: 2018-05-27T09:26:10+02:00
 draft: true
+type: "singles"
+layout: "work"
 markup: mmark
 ---
 
