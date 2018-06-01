@@ -1,3 +1,24 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Eugene Dobrovoslky"
+title = "Eugene Dobrovolsky"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[[menu.main]]
+    name = "Works"
+    weight = 1
+    identifier = "works"
+    url = "/"
+    
+[[menu.main]]
+    name = "Journal"
+    weight = 2
+    identifier = "journal"
+    url = "/posts/"
+    
+[[menu.main]]
+    name = "About"
+    weight = 3
+    identifier = "about"
+    url = "/about/about"

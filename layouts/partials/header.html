@@ -1,0 +1,36 @@
+<header class="nav">
+
+  {{ $page := .Page }}
+  {{ $site := .Site }}
+
+  {{ $list := .Site.Menus.main }}
+  
+  <li class="nav col-sm justify-content-start">
+    <a class="nav-link" href="/">Eugene Dobrovolsky</a>
+  </li>
+
+
+  <li class="nav col-sm justify-content-center d-none d-lg-flex">
+    {{ range $index, $element := $list }}
+      {{ $is := $page.IsMenuCurrent "main" . }}
+      {{ $has := $page.HasMenuCurrent "main" . }}
+        <a {{ if or $is $has }}
+          class="nav-link nav-active"
+          {{ else }}
+            class="nav-link"
+          {{ end }} 
+          href="{{ .URL | absURL }}">
+          {{ .Pre }} {{ .Name }}
+        </a>
+    {{ end }}
+  </li>
+  
+  <li class="nav col-sm justify-content-end d-none d-lg-flex">
+    <a class="nav-link" href="mailto:eugene.dobrovolsky@gmail.com?subject=Inquiry">Email me</a>
+  </li>
+
+  <div calss="menu-inner b-sm-none"></div>
+  
+</header>
+
+

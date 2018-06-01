@@ -1,0 +1,103 @@
+//
+// Home = Works
+//
+
+
+
+html {
+  background-color: $black;
+  
+  body:after {
+    content: '';
+    position: fixed;
+    top: -50%;
+    right: -50%;
+    bottom: -50%;
+    left: -50%;
+    z-index: -1;
+    background: #000000;
+  }
+  
+}
+
+.hero {
+  padding: 2rem 3.75rem 8rem;
+  line-height: 1.6;
+  max-width: 960px;
+  font-weight: 300;
+  color: $gray-500;
+}
+
+.hero-h {
+  padding: 0rem 3.75rem 2rem; 
+}
+
+.work-thumbnails {
+  width: 100%;
+  margin-bottom: 3rem;
+  
+  a {
+    border: none;
+    background-color: white;
+    transition: all .3s ease;
+    
+    &:hover {
+      background-color: #fafafa;
+      img {
+        transform: scale(1.03);
+        opacity: 0.95;
+
+        &:active {
+          opacity: 0.90;
+        }
+      }
+    }
+    &:active {
+      transition: all .2s ease;
+      background-color: #fff;
+    }
+    
+    img {
+      transition: all .3s ease;
+      transform: scale(1.01);
+    }
+    
+  }
+}
+
+.tumbnail-clipping {
+  overflow: hidden;
+}
+
+.thumbnail-title {
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+}
+
+.thumbnail-caption {
+  padding: 2rem 3.75rem 4rem;
+  letter-spacing: 0.2px;
+}
+
+.thumbnail-skill {
+  color: $gray-500;
+  font-size: 0.95rem;
+}
+
+
+@media only screen and (max-width: 640px){
+
+  .thumbnail-caption {
+    padding: 2rem 1.6rem 4rem;
+  }
+  
+}
+
+// Additional breakpoint for the Home page
+@media only screen and (min-width: 1600px){
+  
+  .work-thumbnails a {
+    @include make-col(3);
+  }
+  
+}
