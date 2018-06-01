@@ -10,6 +10,8 @@ header.nav {
   letter-spacing: 0.3px;
     
   a {    
+    text-align: center;
+    min-width: 102px;
     color: $gray-500;
     font-size: 1.2rem;
     border-bottom: none;
