@@ -5,9 +5,11 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+
+
 // Bootstrap Defaults
 @import "../bootstrap/scss/functions";
-@import "../bootstrap/scss/variables";
+@import "../scss/bootstrap_overrides/variables";
 @import "../bootstrap/scss/mixins";
 ////@import "../bootstrap/scss/root";
 @import "../bootstrap/scss/reboot"; 
@@ -50,4 +52,5 @@
 @import "layout/header";
 @import "layout/footer";
 @import "pages/index";
+@import "pages/list";
 @import "pages/single";

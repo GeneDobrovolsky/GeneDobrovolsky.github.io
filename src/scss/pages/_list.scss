@@ -1,0 +1,60 @@
+//
+// List, journal list page
+//
+
+
+article {
+
+  a.list-item {
+    margin: 0 auto 2rem;
+    width: 980px;
+    border: none;
+    transition: all .3s ease;
+    
+    &:hover {
+      background-color: #fafafa;
+      img {
+        transform: scale(1.03);
+        opacity: 0.95;
+
+        &:active {
+          opacity: 0.90;
+        }
+      }
+    }
+
+    &:active {
+      transition: all .2s ease;
+      background-color: #fff;
+    }
+  
+    img {
+      transition: all .2s ease;
+      transform: scale(1.01);
+    }
+    
+    .single-img {
+      height: 250px;
+      background-color: $gray-200;
+    }
+
+    .single-txt {
+
+    }
+
+    .single-headline {
+
+    }
+
+    .single-summary {
+        margin: 0 auto 0rem;
+    } 
+  
+  }
+  .no-img {
+    .single-img {
+      display: none;
+    }
+  }
+
+}

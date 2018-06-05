@@ -4,11 +4,14 @@
 <main>
   <article>
     {{ range .Data.Pages }}
-    <div class="article">
-      <h2 class="single-title">{{ .Title }}</h2>
-      <h5 class="single-summary">{{ .Params.summary }}</h5>
-      <p><a href="{{ .Permalink }}">Read article</a></p>
-    </div>
+    <a href="{{ .Permalink }}" class="list-item row align-items-center">
+      <div class="single-img tumbnail-clipping col-4 p-0"><img class="img-fluid" src="images/{{ .File }}/thumbnail.png"></div>
+      <div class="single-txt col-8 p-5">
+        <h6 class="date">{{ .PublishDate.Format "January 2, 2006" }}</h6>
+        <h2 class="single-title">{{ .Title }}</h2>
+        <h5 class="single-summary">{{ .Params.summary }}</h5>
+      </div>
+    </a>
     {{ end }}
   </article>
 </main>

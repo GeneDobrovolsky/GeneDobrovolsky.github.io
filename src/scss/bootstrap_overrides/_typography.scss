@@ -2,15 +2,16 @@
  * Basic typography style for copy text
  */
 
+
 body {
-  color: #333;
+  color: $gray-800;
   font: normal 17px / 1.7 'runda', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
-	color: #222;
+	color: $gray-900;
 	font-weight: 500; }
 
 .gigantic {
@@ -46,7 +47,9 @@ em {
 	font-style: italic; }
 
 strong {
-	font-weight: bold; }
+	font-weight: 500;
+    color: black;
+  }
 
 hr {
 	border: solid #ddd;
@@ -54,4 +57,23 @@ hr {
 	clear: both;
 	margin: 10px 0 30px;
 	height: 0; }
+
+a {
+  color: $gray-900;
+  text-decoration: none;
+  border-bottom: 2px solid rgba(0,0,0,.1);
+  transition: 0.05s all;
+  
+  &:hover {
+    color: $gray-500;
+    text-decoration: none;
+  }
+  
+  &:active {
+    opacity: 0.8;
+    border-bottom: 2px solid rgba(0,0,0,0);
+  }
+  
+}
+
 
