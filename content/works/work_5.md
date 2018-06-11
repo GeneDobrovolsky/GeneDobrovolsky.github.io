@@ -1,12 +1,22 @@
 ---
 title: "First Agenda"
 summary: "Meetings made productive"
-date: 2018-05-27T09:26:10+02:00
 draft: true
+type: "singles"
+layout: "work"
 markup: mmark
+link: "https://firstagenda.com/"
 ---
+<h5 class="single-summary single-summary-link">
+<a href="https://firstagenda.com" target="_blank">firstagenda.com<span>↗︎</span></a>
+<a href="https://itunes.apple.com/dk/app/assistant-by-firstagenda/id1215633830?l=en&mt=8" target="_blank">App Store<span>↗︎</span></a>
+</h5>
 
-{.col-md-10 .col-xl-6 .p-0}![](/images/work_5/2.jpg)
+<div class="alert alert-warning" role="alert"> 
+<h4 class="alert-heading">This is a preview</h4>Full case study coming soon.
+</div>
+
+{.col-12 .px-0}![](/images/work_5/5.jpg)
 
 The average employee spends 37% of their work time in meetings. When those meetings are ineffective, that adds up to a lot of wasted time and money.
 
@@ -21,13 +31,11 @@ I joined the team in mid 2016 when there already was a web and an iPad app calle
 
 At that moment First Agenda already had 30K active users in 400 organisations across Scandinavia wich amounted to 10K monthly meetings. Now First Agenda wanted to provide a tool for when you were in a meeting - Assistant. 
 
-I was hired to start with that, but later when we figured out the basic functionality and had a working prototype for Assistant we started to think of it as a part of a one whole product and I was responsible for the UI/UX of it.
+{.p-0}![](/images/work_5/4.jpg "I've been designing with the iPad app in mind, but we never got around to updating it while I was on the project.")
 
-{.p-0}![](/images/work_5/4.jpg "Entire First Agenda toolset and my area of responsibility.")
+I started with Assistant, but later when we figured out the basic functionality and had a working prototype we started to think of it as a part of a one whole product and I was responsible for the UI/UX of it. 
 
-I've been designing with the iPad app in mind, although, we never got around to updating it while I was on the project. 
-
-{.col-12 .px-0}![](/images/work_5/5.jpg)
+{.col-md-10 .col-xl-6 .p-0}![](/images/work_5/2.jpg)
 
 First Agenda received $17 Mill at some point after we rolled out our early version of Assistant and overhauled Prepare on the web. I continued to move the design towards a finished product.
 

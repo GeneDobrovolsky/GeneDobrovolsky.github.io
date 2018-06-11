@@ -144,8 +144,6 @@ When you do want to insert a <br /> break tag using Markdown, you end a line wit
 
 ---
 
-An example of math within a paragraph --- \\({e}^{i\pi }+1=0\\)
-
 Or use dollar signs instead --- ${e}^{i\pi }+1=0$
 
 ---
