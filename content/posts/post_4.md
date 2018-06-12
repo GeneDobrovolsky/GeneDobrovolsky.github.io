@@ -140,10 +140,6 @@ Some text with a footnote[^This is the footnote itself.].
 
 ---
 
-When you do want to insert a <br /> break tag using Markdown, you end a line with two or more spaces, then type return.
-
----
-
 Or use dollar signs instead --- ${e}^{i\pi }+1=0$
 
 ---
