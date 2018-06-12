@@ -1,6 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://GeneDobrovolsky.github.io/"
 languageCode = "en-us"
 title = "Eugene Dobrovolsky"
+publishDir = "docs"
 
 [blackfriday]
 hrefTargetBlank = true

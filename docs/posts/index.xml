@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Eugene Dobrovolsky</title>
+    <link>http://GeneDobrovolsky.github.io/posts/</link>
+    <description>Recent content in Posts on Eugene Dobrovolsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2018 17:15:04 +0200</lastBuildDate>
+    
+	<atom:link href="http://GeneDobrovolsky.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My workflow</title>
+      <link>http://GeneDobrovolsky.github.io/posts/post_1/</link>
+      <pubDate>Tue, 23 Jan 2018 17:15:04 +0200</pubDate>
+      
+      <guid>http://GeneDobrovolsky.github.io/posts/post_1/</guid>
+      <description>This post is largely about Product Design. If you are not sure what it is exactly, Eric Eriksson has your back with What is Product Design?. In a sentence, it’s about understanding the problem, designing a solution, shipping it and iterating until it solves the problem. It’s quite brief, so, in a way, it is just another boring sketches and mockups iteration article of which there’s a good number on Medium.</description>
+    </item>
+    
+    <item>
+      <title>Colophon</title>
+      <link>http://GeneDobrovolsky.github.io/posts/post_0/</link>
+      <pubDate>Tue, 23 Jan 2018 17:12:04 +0200</pubDate>
+      
+      <guid>http://GeneDobrovolsky.github.io/posts/post_0/</guid>
+      <description>This post is largely about Product Design. If you are not sure what it is exactly, Eric Eriksson has your back with What is Product Design?. In a sentence, it’s about understanding the problem, designing a solution, shipping it and iterating until it solves the problem. It’s quite brief, so, in a way, it is just another boring sketches and mockups iteration article of which there’s a good number on Medium.</description>
+    </item>
+    
+  </channel>
+</rss>
