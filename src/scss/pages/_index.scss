@@ -18,6 +18,11 @@ html {
     background: #000000;
   }
   
+  main {
+    position: relative;
+    padding-bottom: 3rem;
+  }
+  
 }
 
 .hero {
@@ -34,7 +39,6 @@ html {
 
 .work-thumbnails {
   width: 100%;
-  margin-bottom: 3rem;
   
   a {
     border: none;

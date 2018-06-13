@@ -5,19 +5,22 @@
 
   {{ $list := .Site.Menus.main }}
   
-  <li class="nav col-sm justify-content-start">
+  <li class="nav col justify-content-start">
     <a class="nav-link" href="/">Eugene Dobrovolsky</a>
   </li>
 
+  <li class="nav col justify-content-end align-items-center d-lg-none hamburger">
+    <div class=""></div>
+  </li>
 
-  <li class="nav col-sm justify-content-center d-none d-lg-flex nav-middle">
+  <li class="nav col justify-content-center d-flex nav-middle">
     {{ range $index, $element := $list }}
       {{ $is := $page.IsMenuCurrent "main" . }}
       {{ $has := $page.HasMenuCurrent "main" . }}
         <a {{ if or $is $has }}
-          class="nav-link nav-active"
+          class="nav-link w-md-100 nav-active"
           {{ else }}
-            class="nav-link"
+            class="nav-link w-md-100"
           {{ end }} 
           href="{{ .URL | absURL }}">
           {{ .Pre }} {{ .Name }}
@@ -25,11 +28,30 @@
     {{ end }}
   </li>
   
-  <li class="nav col-sm justify-content-end d-none d-lg-flex">
+  <li class="nav col justify-content-end d-flex">
     <a class="nav-link" href="mailto:eugene.dobrovolsky@gmail.com?subject=Inquiry">Email me</a>
   </li>
 
-  <div calss="menu-inner b-sm-none"></div>
+<!--
+  <div class="menu-inner">
+  
+    <li class="nav col">
+      {{ range $index, $element := $list }}
+        {{ $is := $page.IsMenuCurrent "main" . }}
+        {{ $has := $page.HasMenuCurrent "main" . }}
+          <a {{ if or $is $has }}
+            class="nav-link-small nav-active"
+            {{ else }}
+              class="nav-link-small"
+            {{ end }} 
+            href="{{ .URL | absURL }}">
+            {{ .Pre }} {{ .Name }}
+          </a>
+      {{ end }}
+    </li>
+    
+  </div>
+-->
   
 </header>
 
