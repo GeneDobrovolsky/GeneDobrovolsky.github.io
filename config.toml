@@ -1,4 +1,4 @@
-baseURL = "https://genedobrovolsky.github.io/dobrovolsky.github.io/"
+baseURL = "https://eugenedobrovolsky.com/"
 languageCode = "en-us"
 title = "Eugene Dobrovolsky"
 publishDir = "docs"
