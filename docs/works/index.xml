@@ -1,42 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eugene Dobrovolsky</title>
-    <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/</link>
-    <description>Recent content on Eugene Dobrovolsky</description>
+    <title>Works on Eugene Dobrovolsky</title>
+    <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/</link>
+    <description>Recent content in Works on Eugene Dobrovolsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 May 2018 14:03:54 +0200</lastBuildDate>
     
-	<atom:link href="https://genedobrovolsky.github.io/dobrovolsky.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://genedobrovolsky.github.io/dobrovolsky.github.io/works/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hey, my name is Eugene</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/about/about/</link>
-      <pubDate>Thu, 31 May 2018 14:03:54 +0200</pubDate>
-      
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/about/about/</guid>
-      <description>History Its started out as a hobby when I got into print design and typography. I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then, around 5 years ago, I got interested in web design and shortly after that I started doing it for a living. Over the course on the next few years I gradually transitioned into UI/UX.</description>
-    </item>
-    
-    <item>
-      <title>My workflow</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/posts/post_1/</link>
-      <pubDate>Tue, 23 Jan 2018 17:15:04 +0200</pubDate>
-      
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/posts/post_1/</guid>
-      <description>This post is largely about Product Design. If you are not sure what it is exactly, Eric Eriksson has your back with What is Product Design?. In a sentence, it’s about understanding the problem, designing a solution, shipping it and iterating until it solves the problem. It’s quite brief, so, in a way, it is just another boring sketches and mockups iteration article of which there’s a good number on Medium.</description>
-    </item>
-    
-    <item>
-      <title>Colophon</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/posts/post_0/</link>
-      <pubDate>Tue, 23 Jan 2018 17:12:04 +0200</pubDate>
-      
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/posts/post_0/</guid>
-      <description>This post is largely about Product Design. If you are not sure what it is exactly, Eric Eriksson has your back with What is Product Design?. In a sentence, it’s about understanding the problem, designing a solution, shipping it and iterating until it solves the problem. It’s quite brief, so, in a way, it is just another boring sketches and mockups iteration article of which there’s a good number on Medium.</description>
-    </item>
     
     <item>
       <title>Archives 2014-20XX</title>

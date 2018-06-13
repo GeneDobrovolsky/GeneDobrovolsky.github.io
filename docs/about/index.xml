@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Eugene Dobrovolsky</title>
+    <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/about/</link>
+    <description>Recent content in Abouts on Eugene Dobrovolsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 May 2018 14:03:54 +0200</lastBuildDate>
+    
+	<atom:link href="https://genedobrovolsky.github.io/dobrovolsky.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hey, my name is Eugene</title>
+      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/about/about/</link>
+      <pubDate>Thu, 31 May 2018 14:03:54 +0200</pubDate>
+      
+      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/about/about/</guid>
+      <description>History Its started out as a hobby when I got into print design and typography. I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then, around 5 years ago, I got interested in web design and shortly after that I started doing it for a living. Over the course on the next few years I gradually transitioned into UI/UX.</description>
+    </item>
+    
+  </channel>
+</rss>
