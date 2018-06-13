@@ -1,7 +1,7 @@
 ---
 title: "First Agenda"
 summary: "Meetings made productive"
-draft: true
+draft: false
 type: "singles"
 layout: "work"
 markup: mmark

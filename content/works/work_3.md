@@ -3,7 +3,7 @@ title: "Velvet Ropes"
 summary: "Gawk at the luxuriousness of celebrity estates and catch stars at LA's trendiest hot spots"
 type: "singles"
 layout: "work"
-draft: true
+draft: false
 markup: mmark
 ---
 

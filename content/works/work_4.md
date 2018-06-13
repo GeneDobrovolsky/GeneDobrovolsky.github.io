@@ -3,7 +3,7 @@ title: "Wiredrive"
 summary: "Cloud content management on iPhone and iPad"
 type: "singles"
 layout: "work"
-draft: true
+draft: false
 markup: mmark
 ---
 

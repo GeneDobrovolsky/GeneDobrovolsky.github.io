@@ -3,7 +3,7 @@ title: "Domesting"
 summary: "A booking system to hire domestic services from reliable professionals and companies"
 type: "singles"
 layout: "work"
-draft: true
+draft: false
 markup: mmark
 ---
 
