@@ -27,7 +27,7 @@ I can humbly do what is needed for the project at any given moment, but I'm alwa
 I am a designer, but also a bit of a developer. I am experienced with CSS/SASS, HTML and a bit of JS. Sometimes I code the interactions for my projects. I've done a great deal of prototyping in Framer. I am most comfortable working alongside developers.
 
 ### In my free time
-I'm *learning to make music*. This is something I never thought I would do, but thanks to technology and good design everyone with a phone or a tablet can make a beat and layer a simple melody on top. It's how I got into design after all.
+I'm **learning to make music**. This is something I never thought I would do, but thanks to technology and good design everyone with a phone or a tablet can make a beat and layer a simple melody on top. It's how I got into design after all.
 
 **I read** with particular interest about evolution, integral theory, human interaction,  geopolitics, common good, happiness, friendship, health and longevity. Occasionally, I read fiction when I don't have an itching feeling of not having some answers.
 
