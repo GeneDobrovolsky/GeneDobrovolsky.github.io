@@ -9,7 +9,11 @@ var gulp         = require("gulp"),
 
 // Compile SCSS files to CSS
 gulp.task("scss", function () {
+  
+    //Delete our old css files
     del(["static/css/**/*"])
+  
+    //Compile hashed css files
     gulp.src("src/scss/**/*.scss")
         .pipe(sass({outputStyle : "compressed"}))
         .pipe(autoprefixer({browsers : ["last 20 versions"]}))
@@ -29,10 +33,22 @@ gulp.task("images", function () {
 })
 
 
+// Hash javascript
+gulp.task("js", function () {
+    del(["static/js/**/*"])
+    gulp.src("src/js/**/*")
+        .pipe(hash())
+        .pipe(gulp.dest("static/js"))
+        .pipe(hash.manifest("hash.json"))
+        .pipe(gulp.dest("data/js"))
+})
+
+
 // Watch asset folder for changes
-gulp.task("watch", ["scss", "images"], function () {
+gulp.task("watch", ["scss", "images", "js"], function () {
     gulp.watch("src/scss/**/*", ["scss"])
     gulp.watch("src/images/**/*", ["images"])
+    gulp.watch("src/js/**/*", ["js"])
 })
 
 

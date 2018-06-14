@@ -1,26 +1,25 @@
-<header class="nav">
+<header id="header" class="nav d-flex flex-column flex-lg-row justify-content-lg-between">
 
   {{ $page := .Page }}
   {{ $site := .Site }}
-
   {{ $list := .Site.Menus.main }}
   
-  <li class="nav col justify-content-start">
-    <a class="nav-link" href="/">Eugene Dobrovolsky</a>
+  <li class="d-flex">
+    <a class="nav-link align-items-start" href="/">Eugene Dobrovolsky</a>
+    <div id="menu-button" class="d-lg-none ml-auto menu-button">
+      <div class="menu-bar-horizontal"></div>
+      <div class="menu-bar-vertical"></div>
+    </div>
   </li>
 
-  <li class="nav col justify-content-end align-items-center d-lg-none hamburger">
-    <div class=""></div>
-  </li>
-
-  <li class="nav col justify-content-center d-flex nav-middle">
+  <li id="menu-links-1" class="nav-middle d-none d-lg-flex flex-column flex-lg-row align-items-start">
     {{ range $index, $element := $list }}
       {{ $is := $page.IsMenuCurrent "main" . }}
       {{ $has := $page.HasMenuCurrent "main" . }}
         <a {{ if or $is $has }}
-          class="nav-link w-md-100 nav-active"
+          class="nav-link nav-active"
           {{ else }}
-            class="nav-link w-md-100"
+            class="nav-link"
           {{ end }} 
           href="{{ .URL | absURL }}">
           {{ .Pre }} {{ .Name }}
@@ -28,30 +27,9 @@
     {{ end }}
   </li>
   
-  <li class="nav col justify-content-end d-flex">
+  <li id="menu-links-2" class="d-none d-lg-flex">
     <a class="nav-link" href="mailto:eugene.dobrovolsky@gmail.com?subject=Inquiry">Email me</a>
   </li>
-
-<!--
-  <div class="menu-inner">
-  
-    <li class="nav col">
-      {{ range $index, $element := $list }}
-        {{ $is := $page.IsMenuCurrent "main" . }}
-        {{ $has := $page.HasMenuCurrent "main" . }}
-          <a {{ if or $is $has }}
-            class="nav-link-small nav-active"
-            {{ else }}
-              class="nav-link-small"
-            {{ end }} 
-            href="{{ .URL | absURL }}">
-            {{ .Pre }} {{ .Name }}
-          </a>
-      {{ end }}
-    </li>
-    
-  </div>
--->
   
 </header>
 
