@@ -1,7 +1,7 @@
 ---
 title: "My workflow"
 summary: "For those who may need to work with me and just fellow designers"
-date: 2018-01-23T17:15:04+02:00
+date: 2016-01-03T17:15:04+02:00
 draft: false
 markup: mmark
 ---

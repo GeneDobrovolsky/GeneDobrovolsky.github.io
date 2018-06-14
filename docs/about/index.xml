@@ -2,22 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Eugene Dobrovolsky</title>
-    <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/about/</link>
+    <link>https://eugenedobrovolsky.com/about/</link>
     <description>Recent content in Abouts on Eugene Dobrovolsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 May 2018 14:03:54 +0200</lastBuildDate>
     
-	<atom:link href="https://genedobrovolsky.github.io/dobrovolsky.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://eugenedobrovolsky.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hey, my name is Eugene</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/about/about/</link>
+      <link>https://eugenedobrovolsky.com/about/about/</link>
       <pubDate>Thu, 31 May 2018 14:03:54 +0200</pubDate>
       
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/about/about/</guid>
+      <guid>https://eugenedobrovolsky.com/about/about/</guid>
       <description>History Its started out as a hobby when I got into print design and typography. I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then, around 5 years ago, I got interested in web design and shortly after that I started doing it for a living. Over the course on the next few years I gradually transitioned into UI/UX.</description>
+    </item>
+    
+    <item>
+      <title>Colophon</title>
+      <link>https://eugenedobrovolsky.com/about/colophon/</link>
+      <pubDate>Tue, 23 Jan 2018 17:12:04 +0200</pubDate>
+      
+      <guid>https://eugenedobrovolsky.com/about/colophon/</guid>
+      <description>This is not my first personal website. After a few years of having one that I updated maybe 2 or 3 times in a year I realised it was a bit of an overkill.
+My previous website was on Wordpress and hosted on Mediatemple wich cost me 20$/month + 15$/year for the domain + throwing in 50$/year Typekit subscription, which is optional, but it was the case.
+So, I was paying around $300 a year for something that was nice to have, but optional, since I was getting my jobs on Upwork or from my previous clients and their connections.</description>
     </item>
     
   </channel>

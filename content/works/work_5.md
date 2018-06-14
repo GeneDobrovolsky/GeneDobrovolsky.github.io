@@ -38,15 +38,3 @@ I started with Assistant, but later when we figured out the basic functionality 
 {.col-md-10 .col-xl-6 .p-0}![](/images/work_5/2.jpg)
 
 First Agenda received $17 Mill at some point after we rolled out our early version of Assistant and overhauled Prepare on the web. I continued to move the design towards a finished product.
-
-
-### A simple approach today
-Here I tell about how the ecosystem actually works with simplifying illustrations of the functionality.
-#### 1 Function 
-#### 2 Function 
-#### 3 Function 
-#### 4 Function 
-#### 5 Function 
-#### 6 Function 
-
-### Future

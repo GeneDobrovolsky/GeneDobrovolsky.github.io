@@ -2,69 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eugene Dobrovolsky</title>
-    <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/</link>
+    <link>https://eugenedobrovolsky.com/</link>
     <description>Recent content on Eugene Dobrovolsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 May 2018 14:03:54 +0200</lastBuildDate>
     
-	<atom:link href="https://genedobrovolsky.github.io/dobrovolsky.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://eugenedobrovolsky.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hey, my name is Eugene</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/about/about/</link>
+      <link>https://eugenedobrovolsky.com/about/about/</link>
       <pubDate>Thu, 31 May 2018 14:03:54 +0200</pubDate>
       
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/about/about/</guid>
+      <guid>https://eugenedobrovolsky.com/about/about/</guid>
       <description>History Its started out as a hobby when I got into print design and typography. I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then, around 5 years ago, I got interested in web design and shortly after that I started doing it for a living. Over the course on the next few years I gradually transitioned into UI/UX.</description>
     </item>
     
     <item>
-      <title>My workflow</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/posts/post_1/</link>
-      <pubDate>Tue, 23 Jan 2018 17:15:04 +0200</pubDate>
+      <title>Colophon</title>
+      <link>https://eugenedobrovolsky.com/about/colophon/</link>
+      <pubDate>Tue, 23 Jan 2018 17:12:04 +0200</pubDate>
       
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/posts/post_1/</guid>
-      <description>This post is largely about Product Design. If you are not sure what it is exactly, Eric Eriksson has your back with What is Product Design?. In a sentence, it’s about understanding the problem, designing a solution, shipping it and iterating until it solves the problem. It’s quite brief, so, in a way, it is just another boring sketches and mockups iteration article of which there’s a good number on Medium.</description>
+      <guid>https://eugenedobrovolsky.com/about/colophon/</guid>
+      <description>This is not my first personal website. After a few years of having one that I updated maybe 2 or 3 times in a year I realised it was a bit of an overkill.
+My previous website was on Wordpress and hosted on Mediatemple wich cost me 20$/month + 15$/year for the domain + throwing in 50$/year Typekit subscription, which is optional, but it was the case.
+So, I was paying around $300 a year for something that was nice to have, but optional, since I was getting my jobs on Upwork or from my previous clients and their connections.</description>
     </item>
     
     <item>
-      <title>Colophon</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/posts/post_0/</link>
-      <pubDate>Tue, 23 Jan 2018 17:12:04 +0200</pubDate>
+      <title>My workflow</title>
+      <link>https://eugenedobrovolsky.com/posts/post_1/</link>
+      <pubDate>Sun, 03 Jan 2016 17:15:04 +0200</pubDate>
       
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/posts/post_0/</guid>
+      <guid>https://eugenedobrovolsky.com/posts/post_1/</guid>
       <description>This post is largely about Product Design. If you are not sure what it is exactly, Eric Eriksson has your back with What is Product Design?. In a sentence, it’s about understanding the problem, designing a solution, shipping it and iterating until it solves the problem. It’s quite brief, so, in a way, it is just another boring sketches and mockups iteration article of which there’s a good number on Medium.</description>
     </item>
     
     <item>
       <title>Archives 2014-20XX</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_0/</link>
+      <link>https://eugenedobrovolsky.com/works/work_0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_0/</guid>
+      <guid>https://eugenedobrovolsky.com/works/work_0/</guid>
       <description>Coming soon…</description>
     </item>
     
     <item>
       <title>Domesting</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_1/</link>
+      <link>https://eugenedobrovolsky.com/works/work_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_1/</guid>
-      <description>domesting.com↗︎  
-Outsourcing of domestic tasks to Domesting and people in their booking system, will not only allow to facilitate the progressive incorporation of women into the labour market, but also a better quality of life for them and their families, provided the cost of the service is suitable.
-
-Domesting develops mobile and web based platform that connects users to commercial and residential cleaning companies. The platform allows users to find and book services for domestic cleaning, cleaning of communities, office cleaning, cleaning of the commercial premises, cleaning in educational centers, garage cleaning, and industrial cleaning and sanitation.</description>
+      <guid>https://eugenedobrovolsky.com/works/work_1/</guid>
+      <description>domesting.com↗︎  This is a previewMore detailed info and images coming soon.  
+Domesting develops mobile and web based platform that connects users to commercial and residential cleaning companies. The platform allows users to find and book services for domestic cleaning, cleaning of communities, office cleaning, cleaning of the commercial premises, cleaning in educational centers, garage cleaning, and industrial cleaning and sanitation.
+I was at Domesting for about 6 months from almost the very beginning doing branding, UI/UX, front-end, print and just like it often happens in startups trying to help the ream succeed in every way I could.</description>
     </item>
     
     <item>
       <title>First Agenda</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_5/</link>
+      <link>https://eugenedobrovolsky.com/works/work_5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_5/</guid>
+      <guid>https://eugenedobrovolsky.com/works/work_5/</guid>
       <description>firstagenda.com↗︎ App Store↗︎  This is a previewFull case study coming soon.  
 The average employee spends 37% of their work time in meetings. When those meetings are ineffective, that adds up to a lot of wasted time and money.
 At FirstAgenda, we have taken a stand against unproductive meetings by developing the digital meeting solutions Prepare and Assistant. Our focus is to optimize all stages in the process of preparing for, organizing and following up on meetings.</description>
@@ -72,34 +73,34 @@ At FirstAgenda, we have taken a stand against unproductive meetings by developin
     
     <item>
       <title>Tripopotamus</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_2/</link>
+      <link>https://eugenedobrovolsky.com/works/work_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_2/</guid>
+      <guid>https://eugenedobrovolsky.com/works/work_2/</guid>
       <description>This is a previewFull case study coming soon.  
 Tripopotamus is a travel agency for each and every one. Searching for travel today is a time consuming process. Using our dynamic packages’ platform allows to reduce the time of package formation considerably. The platform is going to be experience oriented, budget-aware and will allow combine and countercheck different means of transportation and several destinations.
 
 
-Unfortunately, Tripopotamus didn&#39;t make it, but we all learned from it, so it was totally worth it.</description>
+Unfortunately, Tripopotamus didn&#39;t make it, but I personally learned a lot from it, so it was totally worth it.</description>
     </item>
     
     <item>
       <title>Velvet Ropes</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_3/</link>
+      <link>https://eugenedobrovolsky.com/works/work_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_3/</guid>
+      <guid>https://eugenedobrovolsky.com/works/work_3/</guid>
       <description>velvetropes.com↗︎  This is a previewFull case study coming soon.  
 Velvet Ropes is a revolutionary development combining celebrity homes, hot spots and sightings into one easy-to-use app for people who love all things celebrity. Velvet Ropes was created to fill a massive void - an easy way to navigate celebrity homes, find celebrity hot spots and report &amp;amp; search real-time celebrity sightings! There are four &amp;quot;Star Maps&amp;quot; being sold in Los Angeles alone claiming to be &amp;quot;updated regularly&amp;quot;, but we found all 4 maps have completely different addresses for the same person in many cases - not to mention how out-dated paper maps are.</description>
     </item>
     
     <item>
-      <title>Wiredrive</title>
-      <link>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_4/</link>
+      <title>Wiredrive Go</title>
+      <link>https://eugenedobrovolsky.com/works/work_4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://genedobrovolsky.github.io/dobrovolsky.github.io/works/work_4/</guid>
-      <description>wiredrive.com↗︎ This is a previewFull case study coming soon.  </description>
+      <guid>https://eugenedobrovolsky.com/works/work_4/</guid>
+      <description>wiredrive.com↗︎App Store↗︎ Coming soonCheck out the links above.  </description>
     </item>
     
   </channel>

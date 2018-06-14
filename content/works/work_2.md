@@ -19,6 +19,6 @@ Tripopotamus is a travel agency for each and every one. Searching for travel tod
 
 {.col-12 .px-0}![](/images/work_2/8.jpg)
 
-Unfortunately, Tripopotamus didn't make it, but we all learned from it, so it was totally worth it.
+Unfortunately, Tripopotamus didn't make it, but I personally learned a lot from it, so it was totally worth it.
 
 {}![](/images/work_2/99.jpg)

@@ -8,13 +8,22 @@ layout: "work"
 markup: mmark
 ---
 
-This is not my first personal website. I realised that I needed a once well done website, that serve my needs long-term, be easy to update with new content, be cheap.
+This is not my first personal website. After a few years of having one that I updated maybe 2 or 3 times in a year I realised it was a bit of an overkill. 
+
+My previous website was on Wordpress and hosted on Mediatemple wich cost me 20$/month + 15$/year for the domain + throwing in 50$/year Typekit subscription, which is optional, but it was the case.
+  
+So, I was paying around $300 a year for something that was nice to have, but optional, since I was getting my jobs on [Upwork](https://www.upwork.com) or from my previous clients and their connections.
+
+I needed a better solution – simple website that would serve my needs long-term, one that would be easy to update with new content once it was set up, and a cheap one.
 
 ### Built with
-This is my personal website that I made using templating system called Hugo and I'm hosting the website here on Github Pages.
-
-### Type
-Typeset in Matthew Butterick’s Equity. Besides being an outstanding typeface (loosely based on Stanley Morison’s Ehrhardt), Equity is sold under the best font license I’ve seen so far—it’s just 1 page and it lets you do pretty much anything you want with the fonts (besides reselling them of course).
+I made it using a static site generator called [Hugo](https://gohugo.io) - speed, security, simplicity. Nice blogging framework, but requires a bit of coding.
 
 ### Hosted
-Hosted on DigitalOcean. If you’d like to try DigitalOcean, you can use this link to get $10 credit. It’s an affiliate link, so I get credit if you use it to sign up. Thus far my experience with them has been great. DigitalOcean obviously caters for advanced users—server management is done through the command line—so if that’s not something you’re familiar with then this might not be for you.
+I'm hosting it on [Github Pages](https://pages.github.com) straight from my website repository on GitHub for free.
+
+### Type
+Typeset in [Runda](http://cargocollective.com/pstype/Runda). It has the clarity and confidence that I think compliments my work. Once my Typekit subscription ends I'll just invest in 2 weights of the font if I decide to stick with it. 
+
+### The Result
+15$/year for somewhere to host my case studies and general info. Fajnie.

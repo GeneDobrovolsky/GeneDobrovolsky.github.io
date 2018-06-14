@@ -154,3 +154,29 @@ article {
   border-radius: 0.75rem;
   border: none;
 }
+
+@media only screen and (max-width: 640px){
+
+  .alert-warning {
+    border-radius: 0;
+    
+    h4 {
+      padding: 0;
+    }
+    
+  }
+  
+  .single-summary-link {
+    margin-top: -1.5rem;
+
+    a {
+      display: block;
+      margin-right: 1.5rem;
+      margin-bottom: 1rem;
+    }
+  
+  } 
+  
+}
+
+
