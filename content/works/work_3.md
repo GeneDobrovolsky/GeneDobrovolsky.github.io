@@ -11,52 +11,88 @@ markup: mmark
 <a href="https://velvetropes.com/celebrity-homes" target="_blank">velvetropes.com<span>↗︎</span></a>
 </h5>
 
-<div class="alert alert-warning" role="alert"> 
-<h4 class="alert-heading">This is a preview</h4>Full case study coming soon.
-</div>
+{.col-sm-12 .col-md-8 .px-0}![](/images/work_3/1.jpg)
 
-{.col-8 .px-0}![](/images/work_3/1.jpg)
+Velvet Ropes is a digital multi-platform star map and a regularly updated source that you can depend on for only the best information about your favorite celebrities.
 
-Velvet Ropes is a revolutionary development combining celebrity homes, hot spots and sightings into one easy-to-use app for people who love all things celebrity. Velvet Ropes was created to fill a massive void - an easy way to navigate celebrity homes, find celebrity hot spots and report & search real-time celebrity sightings! There are four "Star Maps" being sold in Los Angeles alone claiming to be "updated regularly", but we found all 4 maps have completely different addresses for the same person in many cases - not to mention how out-dated paper maps are. Velvet Ropes is the only digital "Star Map" and the only source truly updated regularly that you can depend on for only the best information about your favorite celebrities.
+Velvet Ropes was created to fill a void - an easy way for people who love all things celebrity to navigate Hollywood for celebrity homes, hot spots and sightings that are combined in a one easy-to-use app. 
 
-{.col-8 .px-0}![](/images/work_3/4.png)
+{.col-sm-12 .col-md-8 .px-0}![](/images/work_3/2.jpg)
 
-After beta launching Velvet Ropes in September, we soft launched the website in November of 2016. We're doing our best to get all the major bugs out the web application before embarking on launching the Android and iOS apps. Drop us a line in our contact form if you have feature suggestions or if something is not working as expected!
 
-### Celebrity Homes
+### How it started
+I joined in spring 2016 for a little under a year and was responsible for design and direction.
+
+The app is made very simple and is comprised of 5 sections that are identical across devices and platforms:
+
+- Homes
+- Favorites
+- Hot Spots
+- Sightings
+- Feed
+
+### Homes
+
 Search for your favorite celebrity's home, navigate directly to it, check-in once there, post your own photos to the home profile, and enjoy all the exclusive images of the lavish homes lived in by your favorite people!
 
-{.col-12 .px-0}![](/images/work_3/2.png)
+{.col-sm-12 .col-md-10 .px-0}![](/images/work_3/3.jpg "The most important and used flow of the app")
 
-### Celebrity Hot Spots
+{.col-sm-12 .col-md-10 .border .px-0}![](/images/work_3/30.jpg)
+
+### Favorites
+
 Hot spots are hidden all across Los Angeles, and we’ve got the juicy details to get you there! Everyone enjoys spotting a celebrity, so when deciding where to have lunch or where to hit the club, Velvet Ropes' Hot Spots are the real deal!
 
-### Celebrity Sightings
+{.col-sm-12 .col-md-10 .border .px-0}![](/images/work_3/4.jpg)
+
+### Sightings
+
 There is no greater rush for those of us who are celebrity obsessed than actually seeing a celebrity! That's why we created Celebrity Sightings. When you spot celebrities shopping, in the parking lot or even having dinner, report it on Velvet Ropes to share the joy with us all! (Just don't be a nuisance, they are people too!)
 
-{.col-12 .px-0}![](/images/work_3/3.png)
+{.col-sm-12 .col-md-10 .border .px-0}![](/images/work_3/5.jpg)
 
-![](/images/post_1/9.jpeg)
-![](/images/post_1/10.jpeg)
+### Hot Spots
 
+Hot spots are hidden all across Los Angeles, and we’ve got the juicy details to get you there! Everyone enjoys spotting a celebrity, so when deciding where to have lunch or where to hit the club, Velvet Ropes' Hot Spots are the real deal!
 
-### Screens and views for phones, tablets, laptops and, when needed, desktops
+{.col-sm-12 .col-md-10 .border .px-0}![](/images/work_3/6.jpg)
 
-{.col-8}![](/images/post_1/12.jpeg)
-{.col-8}![](/images/post_1/13.jpeg)
+### Feed
 
-### Prototypes
-I’m just linking all the exported static screens from Sketch (there’s a plugin that makes this process a pleasure, including every next design update). I’m just drawing squares on screens, defining actions on them and linking to other screens. That’s the first thing that people can lay their hands on.
+There is no greater rush for those of us who are celebrity obsessed than actually seeing a celebrity! That's why we created Celebrity Sightings. When you spot celebrities shopping, in the parking lot or even having dinner, report it on Velvet Ropes to share the joy with us all! (Just don't be a nuisance, they are people too!)
 
-{.col-8}![](/images/post_1/15.png)
+{.border .px-0}![](/images/work_3/7.jpg)
 
-It becomes a medium for further communication of design changes, because tools like [Marvel](https://marvelapp.com) and [InVision](https://www.invisionapp.com) allow for collaboration, user-testing, it’s recording and a lot of other cool stuff.
+### The mobile app
 
-{.col-12 .px-0}![](/images/post_1/16.png)
+There is no greater rush for those of us who are celebrity obsessed than actually seeing a celebrity! That's why we created Celebrity Sightings. When you spot celebrities shopping, in the parking lot or even having dinner, report it on Velvet Ropes to share the joy with us all! (Just don't be a nuisance, they are people too!)
 
-### Framer.js prototypes
-Any custom interactions that might play an important role in how the app is structured (e.g. a very specific navigation for a specific type of content that defines the layout) should be tested, preferably in a short period of time and low cost. Plus there are performance issues. This is where tools like Principle or [Framer](https://framer.com) (although, there are many more) come in very handy.
+{.col-sm-10 .col-md-6 .px-0}![](/images/work_3/10.png)
 
-With that done, I can talk to developers.
+{.col-12 .px-0}![](/images/work_3/11.jpg)
 
-{.col-8}![](/images/post_1/17.png "You can play in browser with the one above here and another one here")
+As an exploration we tried to do a dark mode on celebrity profiles to visually separate them from home profiles and it stuck with us.
+
+{.col-12 .px-0}![](/images/work_3/12.jpg)
+
+### Design process
+
+I made a collection of UI elements that was shared between platforms, although we had some icons and buttons that were unique to each platform.
+
+{.col-12 .px-0}![](/images/work_3/8.jpg)
+
+As always I did my best to ensure the consistency and order of the user interface.
+
+{.col-sm-12 .col-md-10 .px-0}![](/images/work_3/9.jpg)
+
+This is how it all resizes and works on different screens sizes on the web
+
+{.col-sm-12 .col-md-10 .px-0}![](/images/work_3/31.jpg "Celebrity homes and celebrity profiles designed to work on all screen sizes.")
+
+As for the iOS app, the whole point of having a dedicated device app is to make use of the devices' capabilities to provide the most comfortable experience. We wanted to make sure the app also feels special and interesting, so we allowed ourselves to move away from the iOS UI design conventions. Of course, I did my best to make sure the app is comfortable to use and tested for it with a static screen prototype in Marvel app.
+
+{.col-sm-10 .col-md-8 .px-0}![](/images/work_3/14.png)
+
+### The results
+
+Only the web app got fully implemented and functional, but the mobile apps never made it to their dedicated app stores due to the lack of funding I suppose. When the hardest part of the planned design and implementation process was done I stuck around for a bit more and moved on keeping track of the progress at Velvet Ropes, but sadly it didn't seem to catch much attention at all.

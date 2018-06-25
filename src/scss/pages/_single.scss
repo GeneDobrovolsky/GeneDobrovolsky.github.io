@@ -62,10 +62,10 @@ article {
   
   // Bootstrab .border override for figures
   figure.border {
-    border: none !important;
+//    border: none !important;
     
     img {
-      border: 1px solid $gray-300;
+//      border: 1px solid $gray-300;
     }
     
   }
@@ -154,6 +154,26 @@ article {
   border-radius: 0.75rem;
   border: none;
 }
+
+
+
+
+
+//Shadows
+.shadow-sm {
+  box-shadow: 0 .125rem .25rem rgba(0,0,0,.05)!important;
+}
+
+.shadow {
+  box-shadow: 0 .75rem 1rem rgba(0,0,0,.075) !important;
+}
+
+.shadow-lg {
+  box-shadow: 0 1rem 3rem rgba(0,0,0,.1)!important;
+}
+
+
+
 
 @media only screen and (max-width: 640px){
 

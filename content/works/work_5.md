@@ -27,7 +27,7 @@ At FirstAgenda, we have taken a stand against unproductive meetings by developin
 
 I joined the team in mid 2016 when there already was a web and an iPad app called Prepare that managed the basics of preparing before the meeting and collaborating after: meeting dates, attendees, attachments and documents, document comments and notes. 
 
-{.border .p-0}![](/images/work_5/3.png "It's a meeting page in Prepare app on an iPad, early 2016.  The web counterpart was identical and had the same functionality.")
+{.p-0}![](/images/work_5/3.png "It's a meeting page in Prepare app on an iPad, early 2016.  The web counterpart was identical and had the same functionality.")
 
 At that moment First Agenda already had 30K active users in 400 organisations across Scandinavia wich amounted to 10K monthly meetings. Now First Agenda wanted to provide a tool for when you were in a meeting - Assistant. 
 
