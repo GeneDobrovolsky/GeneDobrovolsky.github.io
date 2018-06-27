@@ -103,4 +103,4 @@ I also got to work on a little bit of the fancy stuff too.
 
 Unfortunately, Tripopotamus didn't make it, but I personally learned a lot from it, so it was totally worth it.
 
-{}![](/images/work_2/99.jpg)
+{}![](/images/work_2/19.jpg)

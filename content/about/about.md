@@ -1,6 +1,6 @@
 ---
 title: "Hey, my name is Eugene"
-summary: "I’m a Ukrainian UI/UX designer focusing on design systems and experiences for large scale products. Currently based in Warsaw, Poland. Looking to join a team."
+summary: "I’m a Ukrainian Product Designer focusing on design systems and experiences for large scale products. Currently based in Warsaw, Poland. Looking to join a team."
 date: 2018-05-31T14:03:54+02:00
 draft: false
 type: "singles"
@@ -11,7 +11,7 @@ markup: mmark
 {}![](/images/about/profile-small.jpg)
 
 ### History
-Its started out as a hobby when I got into print design and typography. So, I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then, around 5 years ago, I got obsessed with web design, took a quick course and shortly after that I started doing it for a living. Over the course on the next few years I gradually transitioned into UI/UX. I realised I could create more value when I spent more time doing that. 
+Its started out as a hobby when I got into print design and typography. So, I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then, around 5 years ago, I got obsessed with web design and took a quick course on Treehouse. Shortly after that I started doing it for a living, but over the course on the next few years I gradually transitioned into UI/UX. I realised I could create more value when I spent more time doing that. 
 
 Now I'm thinking through design systems and designing experiences for large scale products. 
 
@@ -31,10 +31,10 @@ I'm **learning to make music**. This is something I never thought I would do, bu
 
 **I read** with particular interest about evolution, integral theory, human interaction,  geopolitics, psychology, common good,  sustainable future, happiness, friendship, health and longevity. Occasionally, I read fiction when I don't have an itching feeling of not having some answers.
 
-I have an unintentional habit of **taking pictures**. I've yet to find out what to do with them after they've been taken and edited.
+I have an unintentional habit of **taking pictures** and I've yet to find out what to do with them after they've been taken and edited.
 
-**Cooking**. I thought, since I'm gonna have to do it for the rest of my life, why not learn to have a delightful meal regardless of where I am and whether or not there's my favourite breakfast spot down the street. I'm lucky to also enjoy this process.
+**Cooking**. I thought, since I'm gonna have to do it for the rest of my life, why not learn how to have a delightful meal regardless of where I am and whether or not there's my favourite breakfast spot down the street. I'm lucky to also enjoy the cooking process.
 
-Every once in a while I **write something** to keep track of my thoughts. But also I just generally like to take simple notes when I'm working, learning, or going about my daily errands.
+I just generally like to take notes when I'm working, learning, or going about my daily errands. Every once in a while I **write something** to keep track of my thoughts. 
 
 **Cycling**. It just brings me joy. Bicycle is my main means of transportation. 

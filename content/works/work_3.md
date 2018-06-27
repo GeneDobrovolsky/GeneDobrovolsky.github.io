@@ -59,8 +59,6 @@ Hot spots are hidden all across Los Angeles, and we’ve got the juicy details t
 
 ### Feed
 
-There is no greater rush for those of us who are celebrity obsessed than actually seeing a celebrity! That's why we created Celebrity Sightings. When you spot celebrities shopping, in the parking lot or even having dinner, report it on Velvet Ropes to share the joy with us all! (Just don't be a nuisance, they are people too!)
-
 {.border .px-0}![](/images/work_3/7.jpg)
 
 ### The mobile app

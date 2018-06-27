@@ -10,7 +10,7 @@ markup: mmark
 
 This is not my first personal website. After a few years of having one that I updated maybe 2 or 3 times in a year I realized what I had was a bit of an overkill. 
 
-My previous website was made on Wordpress and hosted on Mediatemple wich cost me 20$/month + 15$/year for the domain + throwing in 50$/year Typekit subscription, which is optional, but it was the case.
+My previous website was made on Wordpress and hosted on Mediatemple which cost me 20$/month + 15$/year for the domain + throwing in 50$/year Typekit subscription, which is optional, but it was the case.
   
 So, I was paying around $300 a year for something that was nice to have, but optional, since I was getting my jobs on [Upwork](https://www.upwork.com) or from my previous clients and their connections.
 

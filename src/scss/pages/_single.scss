@@ -62,10 +62,10 @@ article {
   
   // Bootstrab .border override for figures
   figure.border {
-//    border: none !important;
+    border: none !important;
     
     img {
-//      border: 1px solid $gray-300;
+      border: 1px solid $gray-300;
     }
     
   }
@@ -155,7 +155,9 @@ article {
   border: none;
 }
 
-
+.width-375 {
+  max-width: 375px;
+}
 
 
 

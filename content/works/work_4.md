@@ -14,7 +14,7 @@ markup: mmark
 
 Wiredrive is a cloud content management and collaboration solution for marketing and production teams.
 
-I was called in to revamp the iOS apps and they asked me to mainly focus on the UX and make sure the iPhone and the iPad app function perfectly. I just followed Apple's design guidelines and made all designs very close the those of iOS system apps.
+I was called in to revamp the iOS apps and tasked to mainly focus on the UX and make sure the iPhone and the iPad app function perfectly. I just followed Apple's design guidelines and made all designs very close the those of iOS system apps.
 
 ### How it started
 
