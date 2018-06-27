@@ -17,7 +17,7 @@
       <pubDate>Thu, 31 May 2018 14:03:54 +0200</pubDate>
       
       <guid>https://eugenedobrovolsky.com/about/about/</guid>
-      <description>History Its started out as a hobby when I got into print design and typography. So, I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then, around 5 years ago, I got obsessed with web design, took a quick course and shortly after that I started doing it for a living. Over the course on the next few years I gradually transitioned into UI/UX.</description>
+      <description>History Its started out as a hobby when I got into print design and typography. So, I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then, around 5 years ago, I got obsessed with web design and took a quick course on Treehouse. Shortly after that I started doing it for a living, but over the course on the next few years I gradually transitioned into UI/UX.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       
       <guid>https://eugenedobrovolsky.com/about/colophon/</guid>
       <description>This is not my first personal website. After a few years of having one that I updated maybe 2 or 3 times in a year I realized what I had was a bit of an overkill.
-My previous website was made on Wordpress and hosted on Mediatemple wich cost me 20$/month + 15$/year for the domain + throwing in 50$/year Typekit subscription, which is optional, but it was the case.</description>
+My previous website was made on Wordpress and hosted on Mediatemple which cost me 20$/month + 15$/year for the domain + throwing in 50$/year Typekit subscription, which is optional, but it was the case.</description>
     </item>
     
     <item>
@@ -40,15 +40,6 @@ My previous website was made on Wordpress and hosted on Mediatemple wich cost me
     </item>
     
     <item>
-      <title>Archives 2014-20XX</title>
-      <link>https://eugenedobrovolsky.com/works/work_0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eugenedobrovolsky.com/works/work_0/</guid>
-      <description>Coming soon…</description>
-    </item>
-    
-    <item>
       <title>Domesting</title>
       <link>https://eugenedobrovolsky.com/works/work_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -56,6 +47,7 @@ My previous website was made on Wordpress and hosted on Mediatemple wich cost me
       <guid>https://eugenedobrovolsky.com/works/work_1/</guid>
       <description>domesting.com↗︎  
 Domesting is a web based platform that connects users to commercial and residential cleaning companies. The platform allows users to find and book services for domestic cleaning, cleaning of communities, offices, commercial premises, garages, and just about every other kind of cleaning and sanitation.
+
 I was at Domesting for about 6 months from almost the very beginning doing everything: branding, UI/UX, front-end, print, etc. Just like it often happens in startups we were all trying to help the team succeed in every way we could.</description>
     </item>
     
@@ -67,7 +59,7 @@ I was at Domesting for about 6 months from almost the very beginning doing every
       <guid>https://eugenedobrovolsky.com/works/work_5/</guid>
       <description>firstagenda.com↗︎ App Store↗︎  This is a previewFull case study coming soon.  
 The average employee spends 37% of their work time in meetings. When those meetings are ineffective, that adds up to a lot of wasted time and money.
-At FirstAgenda, we have taken a stand against unproductive meetings by developing the digital meeting solutions Prepare and Assistant. Our focus is to optimize all stages in the process of preparing for, organizing and following up on meetings.</description>
+FirstAgenda has taken a stand against unproductive meetings by developing the digital meeting solutions Prepare and Assistant. Their focus is to optimize all stages in the process of preparing for, organizing and following up on meetings.</description>
     </item>
     
     <item>
@@ -101,7 +93,7 @@ How it started I joined in spring 2016 for a little under a year and was respons
       <guid>https://eugenedobrovolsky.com/works/work_4/</guid>
       <description>wiredrive.com↗︎App Store↗︎ 
 Wiredrive is a cloud content management and collaboration solution for marketing and production teams.
-I was called in to revamp the iOS apps and they asked me to mainly focus on the UX and make sure the iPhone and the iPad app function perfectly. I just followed Apple&#39;s design guidelines and made all designs very close the those of iOS system apps.
+I was called in to revamp the iOS apps and tasked to mainly focus on the UX and make sure the iPhone and the iPad app function perfectly. I just followed Apple&#39;s design guidelines and made all designs very close the those of iOS system apps.
 How it started There already were functioning apps on both iPhone and iPad, but they were lacking in good UX and aesthetic of the interface.</description>
     </item>
     
