@@ -20,37 +20,18 @@ link: "https://firstagenda.com/"
 
 The average employee spends 37% of their work time in meetings. When those meetings are ineffective, that adds up to a lot of wasted time and money.
 
-FirstAgenda has taken a stand against unproductive meetings by developing the digital meeting solutions Prepare and Assistant. Their focus is to optimize all stages in the process of preparing for, organizing and following up on meetings. 
-
 {.col-md-8 .col-xl-6 .p-0}![](/images/work_5/4.jpg "")
 
-### Assistant
+FirstAgenda has taken a stand against unproductive meetings by developing the digital meeting solutions Prepare and Assistant. Their focus is to optimize all stages in the process of preparing for, organizing and following up on meetings. 
 
-Assistant is focused on helping you during the meeting.
+{.col-sm-12 .col-xl-8 .p-0}![](/images/work_5/2.jpg "Assistant is focused on helping you during the meeting.")
 
-{.col-sm-12 .col-xl-8 .p-0}![](/images/work_5/2.jpg)
+Assistant records not only the entire meeting, but your personal notes, public decisions, and tasks as well. Also, you can take photos and attach files. After the meeting ends you can listen to the entire meeting recording, jump to your bookmarks, search keywords and all their instances – the meeting is transcribed. 
 
-- **Record entire meeting**
-	- relisten
-	- add bookmarks
-	- search mentioned words – recordings are transcribed 
-- **Use speech recognition or type up**
-	- personal notes
-	- public decisions
-	- public tasks, assign to attendees
-- **Add photos**
+{.col-sm-12 .col-xl-10 .p-0}![](/images/work_5/6.jpg "Prepare on the iPad and Web helps you before and after meetings.")
 
-### Prepare
+Prepare does everything Assistant does, except it doesn't allow for speech recognition, which is where keyboard comes in. In addition it allows for uploading, organising, and collaborating on documents.
 
-Prepare on the iPad and Web helps you before and after meetings.
-
-{.col-sm-12 .col-xl-10 .p-0}![](/images/work_5/6.jpg)
-
-- **Upload documents**
-	- highlight text
-	- add notes
-	- leave comments, collaborate with meeting attendees
-- **Access and edit everything added with Assistant**
 
 ### The early days
 
@@ -65,9 +46,16 @@ I started with Assistant, but later when we figured out the basic functionality 
 First Agenda received $17 Mill at some point after we rolled out our early version of Assistant and overhauled Prepare on the web. I continued to move the design towards a finished product.
 
 ### The details
-We've been through a lot of iteration and exploration. Eventually we stuck with the designs that would align with the Android and web app, although if we were working on just an iOS app we would probably go with the FA iPhone 2b or similar. It's important that the user feels at home and the home is consistent throughout all devices. 
+We've been through a lot of iteration and exploration. Eventually we stuck with the designs that would align with the Android and web app, although if we were building just an iOS app we would probably go with the FA iPhone 2b or similar. It's important that the user feels at home and the home is consistent throughout all devices. 
 
 {.col-xl-12 .p-0}![](/images/work_5/9.jpg)
+
+<figure class="col-sm-12 col-md-10 col-xl-6 p-0">
+	<video loop autoplay class="d-block mx-auto col-12 border p-0">
+	<source src="/images/work_5/movie0.mp4" type="video/mp4">
+	</video>
+	<figcaption>First prototype of Prepare on the web. We had about 4 design iterations before this one. Then I built this quick prototype, we tested it and the development started.</figcaption>
+</figure>
 
 The main flow is super simple. You start on your meetings list > go to meeting > everything you need is within one scroll. 
 
@@ -76,3 +64,23 @@ The main flow is super simple. You start on your meetings list > go to meeting >
 Below on the left is the screen of a meeting that has ended and contains all kinds of content.  
 
 {.col-xl-8 .p-0}![](/images/work_5/7.jpg)
+
+Before I got to these final designs I had done quite a lot of prototyping. We were figuring out the flows trying to make the app super simple, almost simplistic (InVision), and then trying to enhance the look and feel of the app with interactions (Framer).
+
+<figure class="col-8 p-0 d-flex">
+
+	<video loop autoplay class="col-4 height-600">
+		<source src="/images/work_5/movie1.mp4" type="video/mp4">
+	</video>
+	
+	<video loop autoplay class="col-4 height-600">
+		<source src="/images/work_5/movie2.mp4" type="video/mp4">
+	</video>
+	
+	<video loop autoplay class="col-4 height-600">
+		<source class="border" src="/images/work_5/movie4.mp4" type="video/mp4">
+	</video>
+
+
+
+</figure>
