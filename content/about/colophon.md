@@ -25,5 +25,5 @@ I'm hosting it on [Github Pages](https://pages.github.com) straight from a repos
 ### Type
 Typeset in [Runda](http://cargocollective.com/pstype/Runda). It has the clarity and confidence that I think compliments my work. Once my Typekit subscription ends I'll just invest in 2 weights of the font if I decide to stick with it. 
 
-### The Result
+### The result
 15$/year for somewhere to host my case studies and general info. Fajnie.

@@ -11,7 +11,7 @@ markup: mmark
 {}![](/images/about/profile-small.jpg)
 
 ### History
-Its started out as a hobby when I got into print design and typography. So, I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then, around 5 years ago, I got obsessed with web design and took a quick course on Treehouse. Shortly after that I started doing it for a living, but over the course on the next few years I gradually transitioned into UI/UX. I realised I could create more value when I spent more time doing that. 
+Its started out as a hobby when I got into print design and typography. So, I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then, around 5 years ago, I got obsessed with web design and took a quick Web Design course on Treehouse. Shortly after that I started doing it for a living, but over the course on the next few years I gradually transitioned into UI/UX. I realised I could create more value when I spent more time doing that. 
 
 Now I'm thinking through design systems and designing experiences for large scale products. 
 
@@ -22,19 +22,19 @@ I enjoy good design in all its forms and try to bring it into my life and work. 
 
 I apply motion in interaction design. It helps make the experience intuitive. Hence, more potential to be used and provide value. For a more detailed insight into how I do what I do here's a post about [My Workflow](/posts/post_1).
 
-I can humbly do what is needed for the project at any given moment, but I'm always concerned with a reason behind it. Recently, increasingly so. Knowing the reason and having a good one just helps me sit down to work. Also, it's probably the only way to do a good design.
+I can humbly do what is needed for the project at any given moment, but I'm always concerned with a reason behind it. Recently, increasingly so. Knowing the reason and having a good one just helps me sit down to work. Also, it's probably the only way to do good design.
 
-I am a designer, but I also do a bit of development. I am experienced with CSS/SASS, HTML and basic JS for interactions and prototyping. I've done a great deal of prototyping in Framer. I am most comfortable working alongside developers.
+I am a designer, but I also do a bit of development. I am familiar with CSS/SASS, HTML and basic JS for interactions and prototyping. I've done a great deal of prototyping in Framer. I am most comfortable working alongside developers.
 
 ### In my free time
-I'm **learning to make music**. This is something I never thought I would do, but thanks to technology and good design everyone with a phone or a tablet can make a beat and layer a simple melody on top. It's how I got into design after all.
+I'm **learning to make music**. This is something I never thought I would do, but thanks to technology and good design everyone with a phone or a tablet can make a beat and layer a simple melody on top and I like doing that.
 
 **I read** with particular interest about evolution, integral theory, human interaction,  geopolitics, psychology, common good,  sustainable future, happiness, friendship, health and longevity. Occasionally, I read fiction when I don't have an itching feeling of not having some answers.
 
 I have an unintentional habit of **taking pictures** and I've yet to find out what to do with them after they've been taken and edited.
 
-**Cooking**. I thought, since I'm gonna have to do it for the rest of my life, why not learn how to have a delightful meal regardless of where I am and whether or not there's my favourite breakfast spot down the street. I'm lucky to also enjoy the cooking process.
+**Cooking**. I enjoy the process of cooking and then sharing. Also, I thought, since I'm gonna have to eat for the rest of my life, why not learn how to make a delightful meal.
 
-I just generally like to take notes when I'm working, learning, or going about my daily errands. Every once in a while I **write something** to keep track of my thoughts. 
+I just generally like to take notes when I'm working, learning, or going about my daily errands. Also, every once in a while I **write something** to keep track of my thoughts. 
 
 **Cycling**. It just brings me joy. Bicycle is my main means of transportation. 
