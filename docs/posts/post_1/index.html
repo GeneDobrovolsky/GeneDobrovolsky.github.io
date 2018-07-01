@@ -84,11 +84,13 @@
     
     <h5 class="single-summary">For those who may need to work with me and just fellow designers</h5>
     
-    <p><figure><img src="/images/post_1/1.jpeg" alt=""></figure></p>
+    <div class="alert alert-warning" role="alert"> 
+<h4 class="alert-heading">Update coming soon</h4>In the last two years my process has slightly changed
+</div>
 
 <p>This post is largely about Product Design. If you are not sure what it is exactly, <a href="https://medium.com/@ericeriksson">Eric Eriksson</a> has your back with <a href="https://medium.com/@ericeriksson/what-is-product-design-9709572cb3ff">What is Product Design?</a>. In a sentence, it’s about understanding the problem, designing a solution, shipping it and iterating until it solves the problem. It’s quite brief, so, in a way, it is just another boring sketches and mockups iteration article of which there’s a good number on Medium. Nevertheless, this is what I want to write about in details, because it’s my workflow and I think people I might work with could really use it.</p>
 
-<h3 id="starting-with-a-text-document">Starting with a text document</h3>
+<h3 id="1-starting-with-a-text-document">1 Starting with a text document</h3>
 
 <p>Normally, it’s not the case, but sometimes there’s no document outlining the product (e.g., I am the founder and haven’t got around to it yet). To be able to clearly understand what I’m dealing with, it’s important for me to have things laid out:</p>
 
@@ -106,20 +108,20 @@
 
 <p>There’s also <strong>research</strong> that fits somewhere in between this and the next step, but it’s a way too often written about and pretty generic topic, so I’ll just skip it.</p>
 
-<h3 id="ideation-sketches">Ideation, sketches</h3>
+<h3 id="2-ideation-sketches">2 Ideation, sketches</h3>
 
 <p>Sketching on a piece of paper is probably the fastest way to quickly lay out numerous ideas, visualise them and see if they are any good and whether they add up to a design concept.</p>
 
 <p><figure class="col-8"><img src="/images/post_1/2.jpeg" alt=""></figure></p>
 
-<h3 id="wireframes-user-flows">Wireframes, user flows</h3>
+<h3 id="3-wireframes-user-flows">3 Wireframes, user flows</h3>
 
 <p>To make the process of coming up with first designs easier and less free-form I like to put together possible UI elements and schematic content in a wireframe. I prefer to use tools like MindNode, Precursor (good for wireframing, sketching, and brainstorming for teams) or most often Sketch.</p>
 
 <p><figure class="col-8"><img src="/images/post_1/3.png" alt=""></figure>
 <figure class="col-8"><img src="/images/post_1/4.jpeg" alt=""></figure></p>
 
-<h3 id="first-designs-a-few-drafts">First designs, a few drafts</h3>
+<h3 id="4-first-designs-a-few-drafts">4 First designs, a few drafts</h3>
 
 <p>I’m working in drafts. It usually takes 2–3 drafts to be ready to start with the design people will see.</p>
 
@@ -155,29 +157,7 @@
 
 <p>Everything is laid out in a way that makes sense with navigation and interaction in mind. I’m still testing some ideas in Framer Studio. The design now contains a set of rough custom icons. The UI elements are more or less defined, but need to be organised so as to be modular and reusable.</p>
 
-<h3 id="production-design">Production design</h3>
-
-<p>Production design contains all kinds of stuff needed to start building the front-end in an organised, effective and future-proof manner. The designs normally contain:</p>
-
-<h5 id="01-grid-system"><strong>01</strong> Grid system</h5>
-
-<p><figure><img src="/images/post_1/9.jpeg" alt=""></figure>
-<figure><img src="/images/post_1/10.jpeg" alt=""></figure></p>
-
-<h5 id="02-set-of-ui-elements"><strong>02</strong> Set of UI elements</h5>
-
-<p><figure><img src="/images/post_1/11.jpeg" alt=""></figure></p>
-
-<h5 id="03-screens-and-views-for-phones-tablets-laptops-and-when-needed-desktops"><strong>03</strong> Screens and views for phones, tablets, laptops and, when needed, desktops</h5>
-
-<p><figure class="col-8"><img src="/images/post_1/12.jpeg" alt=""></figure>
-<figure class="col-8"><img src="/images/post_1/13.jpeg" alt=""></figure></p>
-
-<p>The screen count gets to about 150 screens. It really becomes hard to manage that many screens, while still having them in one document to be able to take advantage of shared styles and symbols. Luckily, it’s still possible in Sketch with its pages and artboards. Love Sketch for that, but there’s still room to improve.</p>
-
-<p><figure><img src="/images/post_1/14.jpeg" alt=""></figure></p>
-
-<h3 id="marvel-or-invision-prototype">Marvel or Invision prototype</h3>
+<h3 id="5-marvel-or-invision-prototype">5 Marvel or Invision prototype</h3>
 
 <p>I’m just linking all the exported static screens from Sketch (there’s a plugin that makes this process a pleasure, including every next design update). I’m just drawing squares on screens, defining actions on them and linking to other screens. That’s the first thing that people can lay their hands on.</p>
 
@@ -187,7 +167,7 @@
 
 <p><figure class="col-12 px-0"><img src="/images/post_1/16.png" alt=""></figure></p>
 
-<h3 id="framerjs-prototypes">Framer.js prototypes</h3>
+<h3 id="6-framerjs-prototypes">6 Framer.js prototypes</h3>
 
 <p>Any custom interactions that might play an important role in how the app is structured (e.g. a very specific navigation for a specific type of content that defines the layout) should be tested, preferably in a short period of time and low cost. Plus there are performance issues. This is where tools like Principle or <a href="https://framer.com">Framer</a> (although, there are many more) come in very handy.</p>
 
@@ -201,6 +181,28 @@
 
 <p>I usually prototype one thing at a time and I’m not trying to have beautiful code, so it doesn’t take a lot of time, which is great. Normally, it’s under 100 lines. Oftentimes there are bugs, but as long as the idea is communicated, I’m good. But that only goes for minor features. For stuff like <a href="https://blog.twitter.com/2015/now-on-twitter-group-direct-messages-and-mobile-video-capture">Twitter Video</a> it’s a totally <a href="http://paulstamatiou.com/twitter-video/">different story</a>.
 I’ve yet to learn a lot, because I don’t feel as much freedom as Framer.js allows one, but it’s not gonna be like that forever.</p>
+
+<h3 id="7-production-design">7 Production design</h3>
+
+<p>Production design contains all kinds of stuff needed to start building the front-end in an organised, effective and future-proof manner. The designs normally contain:</p>
+
+<h5 id="01-grid-system">01 Grid system</h5>
+
+<p><figure><img src="/images/post_1/9.jpeg" alt=""></figure>
+<figure><img src="/images/post_1/10.jpeg" alt=""></figure></p>
+
+<h5 id="02-set-of-ui-elements">02 Set of UI elements</h5>
+
+<p><figure><img src="/images/post_1/11.jpeg" alt=""></figure></p>
+
+<h5 id="03-screens-and-views-for-phones-tablets-laptops-and-when-needed-desktops">03 Screens and views for phones, tablets, laptops and, when needed, desktops</h5>
+
+<p><figure class="col-8"><img src="/images/post_1/12.jpeg" alt=""></figure>
+<figure class="col-8"><img src="/images/post_1/13.jpeg" alt=""></figure></p>
+
+<p>The screen count gets to about 150 screens. It really becomes hard to manage that many screens, while still having them in one document to be able to take advantage of shared styles and symbols. Luckily, it’s still possible in Sketch with its pages and artboards. Love Sketch for that, but there’s still room to improve.</p>
+
+<p><figure><img src="/images/post_1/14.jpeg" alt=""></figure></p>
 
 <h3 id="finally">Finally</h3>
 

@@ -71,8 +71,6 @@ And since Tripopotamus was planned as a web-based service we had to make sure th
 
 {.col-12 .px-0}![](/images/work_2/12.jpg)
 
-I also got to work on a little bit of the fancy stuff too.
-
 <div class="col-md-12 col-lg-8 d-flex flex-wrap py-4 my-4">
 
 	<figure class="col-4 mt-2 mb-4">
@@ -101,6 +99,6 @@ I also got to work on a little bit of the fancy stuff too.
 
 </div>
 
-Unfortunately, Tripopotamus didn't make it, but I personally learned a lot from it, so it was totally worth it.
+Unfortunately, Tripopotamus didn't make it, but I personally learned an awful lot from it, like how to deal with complex problems that haven't been solved yet, or how to make quick decent decisions in a fast-paced environment. Also, I got to flex my UI/UX muscle quite a bit. It was totally worth it.
 
 {}![](/images/work_2/19.jpg)
