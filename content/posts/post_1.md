@@ -7,7 +7,7 @@ markup: mmark
 ---
 
 <div class="alert alert-warning" role="alert"> 
-<h4 class="alert-heading">Update coming soon</h4>In the last two years my process has slightly changed
+<h4 class="alert-heading">Update coming soon</h4>A more detailed version with minor changes
 </div>
 
 This post is largely about Product Design. If you are not sure what it is exactly, [Eric Eriksson](https://medium.com/@ericeriksson) has your back with [What is Product Design?](https://medium.com/@ericeriksson/what-is-product-design-9709572cb3ff). In a sentence, it’s about understanding the problem, designing a solution, shipping it and iterating until it solves the problem. It’s quite brief, so, in a way, it is just another boring sketches and mockups iteration article of which there’s a good number on Medium. Nevertheless, this is what I want to write about in details, because it’s my workflow and I think people I might work with could really use it.
@@ -54,7 +54,7 @@ Around 20 screens, also very rough.
 
 Some custom UI elements start to appear. I’m still figuring out how the navigation should work, trying different layouts without getting into details. In case there’s an idea that needs verification and simply trying to imagine it isn’t enough, prototyping kicks in. Although, I don’t push code to production, I have some front-end background and it allows me to prototype with Framer.js, which is terrific!
 
-{.col-8}![](/images/post_1/7.png "Play with it in browser")
+{.col-8}![](/images/post_1/7.png)
 
 An important part of the whole process is collaboration with development team. It’s something I really care about and want as much as it is necessary in my workflow. However, there were cases with agencies when they didn’t like the idea as much, and would only dedicate a specific amount of time a week or come up with other reasons not to do so, which sucked.
 
