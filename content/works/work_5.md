@@ -119,7 +119,7 @@ There were many challenges with the navigation and just the concentration of the
 
 {.col-xl-8 .p-0}![](/images/work_5/16.jpg "Player on iOS, Android, and web on mobile. Minimize it, go back to meetings, settings, etc.")
 
-The player was a particularly tricky dick. Just the timeline had to accommodate bookmarks, keyword marks, loading progress. Also the player had to work everywhere in the app, so it had to show the title of the meeting recorded and provide a means to go back that meeting page.
+The player was a particularly tricky one. Just the timeline had to accommodate bookmarks, keyword marks, loading progress. Also the player had to work everywhere in the app, so it had to show the title of the meeting recorded and provide a means to go back that meeting page.
 
 {.col-xl-6 .p-0 .border}![](/images/work_5/19.jpg "Player on the web on a laptop")
 
