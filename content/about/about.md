@@ -29,7 +29,7 @@ I am a designer, but I do a bit of coding as well. I [coded](/about/colophon) th
 ### In my free time
 I'm **learning to make music**. This is something I never thought I would do, but thanks to technology and good design everyone with a phone or a tablet can make a beat and layer a simple melody on top. I love doing that.
 
-**I read** with particular interest about evolution, integral theory, human interaction,  geopolitics, psychology, common good,  sustainable future, happiness, friendship, health and longevity. Occasionally, I read fiction when I don't have an itching feeling of not having some answers.
+**I read** with particular interest about evolution, integral theory, human interaction, psychology, common good,  sustainable future, happiness, friendship, health and longevity. Occasionally, I read fiction when I don't have an itching feeling of not having some answers.
 
 I have an unintentional habit of **taking pictures** and I've yet to find out what to do with them after they've been taken and edited.
 
