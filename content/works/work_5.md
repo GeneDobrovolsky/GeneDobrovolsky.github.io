@@ -12,6 +12,10 @@ link: "https://firstagenda.com/"
 <a href="https://itunes.apple.com/dk/app/assistant-by-firstagenda/id1215633830?l=en&mt=8" target="_blank">App Store<span>↗︎</span></a>
 </h5>
 
+<div class="alert alert-warning" role="alert"> 
+<h4 class="alert-heading">Ongoing project</h4>Updates coming soon.
+</div>
+
 {.col-sm-12 .col-xl-10 .px-0}![](/images/work_5/5.jpg)
 
 The average employee spends 37% of their work time in meetings. When those meetings are ineffective, that adds up to a lot of wasted time and money.
