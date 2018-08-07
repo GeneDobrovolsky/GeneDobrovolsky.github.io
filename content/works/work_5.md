@@ -1,5 +1,5 @@
 ---
-title: "First Agenda"
+title: "Assistant by First Agenda"
 summary: "Meetings made productive"
 draft: false
 type: "singles"
@@ -24,11 +24,11 @@ The average employee spends 37% of their work time in meetings. When those meeti
 
 FirstAgenda has taken a stand against unproductive meetings by developing the digital meeting solutions Prepare and Assistant. Their focus is to optimize all stages in the process of preparing for, organizing and following up on meetings. 
 
-{.col-sm-12 .col-xl-8 .p-0}![](/images/work_5/2.jpg "Assistant app is focused on helping you during the meeting")
+{.col-sm-12 .col-xl-8 .p-0}![](/images/work_5/2.jpg "Assistant app on iOS")
 
 **Assistant** app records not only the entire meeting, but your personal notes, public decisions, and tasks as well. Also, you can take photos and attach files. After the meeting ends you can listen to the entire meeting recording, jump to your bookmarks, search keywords and all their instances – the meeting is transcribed. 
 
-{.col-sm-12 .col-xl-10 .p-0}![](/images/work_5/6.jpg "Prepare app on the iPad and Web helps you before and after meetings")
+{.col-sm-12 .col-xl-10 .p-0}![](/images/work_5/6.jpg "Assistant app on the Web")
 
 **Prepare** app does everything Assistant does, except it doesn't allow for speech recognition, which is where keyboard comes in. But, in addition, it allows for uploading, organising, and collaborating on documents.
 
@@ -41,11 +41,9 @@ I joined the team in mid 2016 when there already was a web and an iPad app calle
 
 At that moment First Agenda already had 30K active users in 400 organisations across Scandinavia wich amounted to 10K monthly meetings. Now First Agenda wanted to provide a tool for when you were in a meeting - Assistant. 
 
-I started with Assistant, but later when we figured out the basic functionality and had a working prototype we started to think of it as a part of a one whole product and I was responsible for the UI/UX of it. 
+First Agenda received $17 Mill at some point after we rolled out our early version of Assistant on iOS and Web. Later we caught up with the Android app as well. I continued to move the design of Assistant platform shaping it up into a more or less complete and consistent product.
 
-First Agenda received $17 Mill at some point after we rolled out our early version of Assistant and overhauled Prepare on the web. I continued to move the design towards a finished product.
-
-### Assistant App
+### Assistant iOS App
 
 We've been through a lot of iteration and exploration. Eventually we stuck with the designs that would align with the Android and web app, although if we were building just an iOS app we would probably go with the FA iPhone 2b or similar. It's important that the user feels at home and the home is consistent throughout all devices. 
 
@@ -88,12 +86,9 @@ Here's another very important flow. We were figuring out the easiest and fastest
 
 To quickly iterate but maintain the quality and consistency at later stages of design I had to keep everything really well organised. The same had to be done for Android and web.
 
-{.col-xl-8 .p-0}![](/images/work_5/13.jpg  "Assistant App design system symbols on the left and screens built from them on the right")
+{.col-xl-8 .p-0}![](/images/work_5/13.jpg  "iOS design system components on the left and screens built from them on the right")
 
-{.col-xl-8 .p-0}![](/images/work_5/14.jpg  "Prepare App design system for web")
-
-
-### Prepare App
+### Web App
 
 Getting the navigation right for the web was quite a challenge, since we had a lot functionality to squeeze into one view that needed to be consistent on all screen sizes and devices: 320px - 2560px. We already had our first prototype for iOS and now it was time for the web app.
 
@@ -107,7 +102,7 @@ After a few iterations in InVision I built this quick web prototype, we tested i
 	<video loop autoplay class="d-block mx-auto col-12 border p-0">
 	<source src="/images/work_5/movie0.mp4" type="video/mp4">
 	</video>
-	<figcaption>First quick web prototype of Prepare app</figcaption>
+	<figcaption>First quick web prototype</figcaption>
 </figure>
 
 This was another one of the many prototypes that helped us shape an idea of a product that we wanted to give to our users.
