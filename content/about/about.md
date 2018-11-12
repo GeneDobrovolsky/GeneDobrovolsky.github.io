@@ -1,6 +1,6 @@
 ---
 title: "Hey, my name is Eugene"
-summary: "I’m a Ukrainian Product Designer focusing on design systems and experiences for large scale products. Based in Warsaw, Poland. Currently at First Agenda. Soon joining Shoplo."
+summary: "I’m a Ukrainian Product Designer focusing on design systems and experiences for digital products. Based in Warsaw, Poland. Currently at Shoplo."
 date: 2018-05-31T14:03:54+02:00
 draft: false
 type: "singles"

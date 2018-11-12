@@ -6,7 +6,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.6);
+  background-color: rgba(0, 0, 0, 0.6);
   z-index: 1;
   cursor: pointer;
 }
@@ -21,15 +21,15 @@ header {
 
 header.nav {
   padding: 5rem 3.75rem;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: 0.3px;
-    
+
   a {
     display: inline-block;
     color: $gray-500;
     font-size: 1.2rem;
     border-bottom: none;
-    transition: all .05s ease;
+    transition: all 0.05s ease;
 
     &:hover,
     &:focus {
@@ -39,15 +39,15 @@ header.nav {
       opacity: 0.5;
     }
   }
-  
-.nav-middle {
-  min-width: 310px;
-  padding-right: 100px;
-}
-  
-  li{
+
+  .nav-middle {
+    min-width: 310px;
+    padding-right: 100px;
+  }
+
+  li {
     padding: 0;
-    
+
     &:first-child {
       a {
         padding-left: 0;
@@ -56,22 +56,20 @@ header.nav {
         color: $black;
       }
     }
-    
+
     &:last-child {
       a {
         padding-left: 0;
         padding-right: 0;
       }
     }
-    
   }
-  
+
   .nav-active {
     font-weight: 500;
     color: #222;
     -webkit-font-smoothing: antialiased;
   }
-  
 }
 
 .menu-button {
@@ -82,7 +80,6 @@ header.nav {
   cursor: pointer;
   transform: rotate(0deg) scale(0.4);
   transition: all 0.2s ease;
-
 
   .menu-bar-horizontal {
     position: absolute;
@@ -100,55 +97,37 @@ header.nav {
     background-color: $gray-400;
     transform: rotate(90deg);
   }
-
-}  
+}
 
 .rotate-45deg {
   transform: rotate(45deg) scale(0.4);
-  
-  .menu-bar-horizontal, .menu-bar-vertical {
+
+  .menu-bar-horizontal,
+  .menu-bar-vertical {
     background-color: $gray-900;
   }
-  
 }
 
-
-
-
-@media only screen and (max-width: 640px){
-
+@media only screen and (max-width: 640px) {
   header.nav {
     padding: 5rem 1.6rem;
   }
-
 }
 
-
-
-
-@media only screen and (max-width: 992px){
-
+@media only screen and (max-width: 992px) {
   header.nav {
-    
     .nav-middle {
       padding: 3rem 0 0;
-      
+
       a {
         padding-left: 0;
         padding-right: 0;
       }
-      
     }
-
   }
-  
 }
 
-
-
-
-@media only screen and (min-width: 992px){
-
+@media only screen and (min-width: 992px) {
   .nav-middle {
     padding: 2rem 0 0;
 
@@ -156,7 +135,5 @@ header.nav {
       text-align: center;
       min-width: 102px;
     }
-
   }
-  
 }

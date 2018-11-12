@@ -2,13 +2,11 @@
 // Home = Works
 //
 
-
-
 html {
   background-color: $black;
-  
+
   body:after {
-    content: '';
+    content: "";
     position: fixed;
     top: -50%;
     right: -50%;
@@ -17,12 +15,11 @@ html {
     z-index: -1;
     background: #000000;
   }
-  
+
   main {
     position: relative;
     padding-bottom: 3rem;
   }
-  
 }
 
 .hero {
@@ -34,17 +31,17 @@ html {
 }
 
 .hero-h {
-  padding: 0rem 3.75rem 2rem; 
+  padding: 0rem 3.75rem 2rem;
 }
 
 .work-thumbnails {
   width: 100%;
-  
+
   a {
     border: none;
     background-color: white;
-    transition: all .3s ease;
-    
+    transition: all 0.3s ease;
+
     &:hover {
       background-color: #fafafa;
       img {
@@ -52,21 +49,20 @@ html {
         opacity: 0.95;
 
         &:active {
-          opacity: 0.90;
+          opacity: 0.9;
         }
       }
     }
-    
+
     &:active {
-      transition: all .2s ease;
+      transition: all 0.2s ease;
       background-color: #fff;
     }
-    
+
     img {
-      transition: all .3s ease;
+      transition: all 0.3s ease;
       transform: scale(1.01);
     }
-    
   }
 }
 
@@ -76,7 +72,7 @@ html {
 
 .thumbnail-title {
   font-weight: 500;
-  -webkit-font-smoothing: antialiased;
+  // -webkit-font-smoothing: antialiased;
 }
 
 .thumbnail-caption {
@@ -90,20 +86,15 @@ html {
   letter-spacing: 0.3px;
 }
 
-
-@media only screen and (max-width: 640px){
-
+@media only screen and (max-width: 640px) {
   .thumbnail-caption {
     padding: 2rem 1.6rem 4rem;
   }
-  
 }
 
 // Additional breakpoint for the Home page
-@media only screen and (min-width: 1600px){
-  
+@media only screen and (min-width: 1600px) {
   .work-thumbnails a {
     @include make-col(3);
   }
-  
 }
