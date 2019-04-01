@@ -3,13 +3,29 @@
 <main>
   <div id="menu-dimming" class="menu-dimming d-none"></div>
   <!--
-  <h2 class="hero">I’m a self-taught designer focusing on UX/UI for web and mobile. Currently at <a class="" href="https://firstagenda.com" target="_blank">First Agenda</a> building solutions to unproductive meetings. Based in Warsaw, Poland.</h2>
-  <h2 class="hero-h">Selected Works</h2>
--->
+    <h2 class="hero">I’m a self-taught designer focusing on UX/UI for web and mobile. Currently at <a class="" href="https://firstagenda.com" target="_blank">First Agenda</a> building solutions to unproductive meetings. Based in Warsaw, Poland.</h2>
+    <h2 class="hero-h">Selected Works</h2>
+  -->
   <section class="work-thumbnails row mx-0">
+    <a
+      class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0"
+      href="https://shoplo.com"
+      target="_blank"
+    >
+      <div class="tumbnail-clipping">
+        <img class="img-fluid" src="images/work_6/thumbnail.jpg" />
+      </div>
+
+      <div class="thumbnail-caption">
+        <h5 class="thumbnail-title">Shoplo</h5>
+        <div class="thumbnail-skill">Product Design</div>
+      </div>
+    </a>
     <a class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0" href="/works/work_5/">
       <div class="tumbnail-clipping">
-        <img class="img-fluid" src="images/work_5/thumbnail.jpg"></div>
+        <img class="img-fluid" src="images/work_5/thumbnail.jpg" />
+      </div>
+
       <div class="thumbnail-caption">
         <h5 class="thumbnail-title">Assistant</h5>
         <div class="thumbnail-skill">Product Design, UI/UX</div>
@@ -17,7 +33,9 @@
     </a>
     <a class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0" href="/works/work_4/">
       <div class="tumbnail-clipping">
-        <img class="img-fluid" src="images/work_4/thumbnail.jpg"></div>
+        <img class="img-fluid" src="images/work_4/thumbnail.jpg" />
+      </div>
+
       <div class="thumbnail-caption">
         <h5 class="thumbnail-title">Wiredrive</h5>
         <div class="thumbnail-skill">User Experience</div>
@@ -25,7 +43,9 @@
     </a>
     <a class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0" href="/works/work_3/">
       <div class="tumbnail-clipping">
-        <img class="img-fluid" src="images/work_3/thumbnail.jpg"></div>
+        <img class="img-fluid" src="images/work_3/thumbnail.jpg" />
+      </div>
+
       <div class="thumbnail-caption">
         <h5 class="thumbnail-title">Velvet Ropes</h5>
         <div class="thumbnail-skill">Branding, Product, UI/UX, Direction</div>
@@ -33,7 +53,9 @@
     </a>
     <a class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0" href="/works/work_2/">
       <div class="tumbnail-clipping">
-        <img class="img-fluid" src="images/work_2/thumbnail.jpg"></div>
+        <img class="img-fluid" src="images/work_2/thumbnail.jpg" />
+      </div>
+
       <div class="thumbnail-caption">
         <h5 class="thumbnail-title">Tripopotamus</h5>
         <div class="thumbnail-skill">Product, UI/UX, Direction</div>
@@ -41,33 +63,27 @@
     </a>
     <a class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0" href="/works/work_1/">
       <div class="tumbnail-clipping">
-        <img class="img-fluid" src="images/work_1/thumbnail.jpg"></div>
+        <img class="img-fluid" src="images/work_1/thumbnail.jpg" />
+      </div>
+
       <div class="thumbnail-caption">
         <h5 class="thumbnail-title">Domesting</h5>
         <div class="thumbnail-skill">Branding, UI/UX, Front-End</div>
       </div>
     </a>
-    <a class="col-xs-12 col-md-6 col-xl-4   mx-0 px-0" href="https://projects.invisionapp.com/boards/GR3NGRTZNK5#/6133673" target="_blank">
-      <div class="tumbnail-clipping">
-        <img class="img-fluid" src="images/work_0/thumbnail.jpg"></div>
-      <div class="thumbnail-caption">
-        <h5 class="thumbnail-title">Archives 2014-20XX</h5>
-        <div class="thumbnail-skill">All kinds of design</div>
-      </div>
-    </a>
   </section>
-  <!--  <h2 class="hero-h">Recent Posts</h2>-->
+  <!-- <h2 class="hero-h">Recent Posts</h2> -->
   <!--
-  <article>
-    {{ range first 4 .Data.Pages }}
-    <div class="article">
-      <h2 class="single-title">{{ .Title }}</h2>
-      <h5 class="single-summary">{{ .Params.summary }}</h5>
-      <p><a href="{{ .Permalink }}">Read article</a></p>
-    </div>
-    {{ end }}
-  </article>
--->
+    <article>
+      {{ range first 4 .Data.Pages }}
+      <div class="article">
+        <h2 class="single-title">{{ .Title }}</h2>
+        <h5 class="single-summary">{{ .Params.summary }}</h5>
+        <p><a href="{{ .Permalink }}">Read article</a></p>
+      </div>
+      {{ end }}
+    </article>
+  -->
 </main>
 
 {{ partial "footer.html" . }} {{ partial "dom/tail.html" . }}
