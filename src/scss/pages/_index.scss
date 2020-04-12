@@ -18,7 +18,7 @@ html {
 
   main {
     position: relative;
-    padding-bottom: 3rem;
+    padding-bottom: 4rem;
   }
 }
 
@@ -26,8 +26,10 @@ html {
   padding: 2rem 3.75rem 8rem;
   line-height: 1.6;
   max-width: 960px;
+  font-size: 32px;
   font-weight: 300;
-  color: $gray-500;
+  color: $gray-600;
+  opacity: 0.8;
 }
 
 .hero-h {
@@ -40,7 +42,7 @@ html {
   a {
     border: none;
     background-color: white;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
 
     &:hover {
       background-color: #fafafa;
@@ -55,8 +57,12 @@ html {
     }
 
     &:active {
-      transition: all 0.2s ease;
+      transition: all 0.15s ease;
       background-color: #fff;
+    }
+
+    &:focus {
+      z-index: 1000;
     }
 
     img {
@@ -81,15 +87,22 @@ html {
 }
 
 .thumbnail-skill {
-  color: $gray-500;
-  font-size: 0.95rem;
+  color: $gray-600;
+  font-size: 1rem;
+  line-height: 1.6;
   letter-spacing: 0.3px;
+  opacity: 0.9;
 }
 
 @media only screen and (max-width: 640px) {
+  .hero {
+    font-size: 28px;
+    padding: 2rem 1.6rem 7rem;
+  }
   .thumbnail-caption {
     padding: 2rem 1.6rem 4rem;
   }
+
 }
 
 // Additional breakpoint for the Home page

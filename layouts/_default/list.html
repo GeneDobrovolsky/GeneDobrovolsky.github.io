@@ -1,12 +1,14 @@
-{{ partial "dom/head.html" . }} 
+{{ partial "dom/head.html" . }}
 {{ partial "header.html" . }}
 
 <main>
   <article>
     {{ range .Data.Pages }}
     <a href="{{ .Permalink }}" class="list-item row align-items-center">
-      <div class="single-img tumbnail-clipping col-4 p-0"><img class="img-fluid" src="images/{{ .File }}/thumbnail.png"></div>
-      <div class="single-txt col-8 p-5">
+      <div class="single-img tumbnail-clipping col-sm-4 p-0"><img class="img-fluid"
+          src="images/{{ .File }}/thumbnail.png">
+      </div>
+      <div class="single-txt col-sm-8 p-sm-5">
         <h6 class="date">{{ .PublishDate.Format "January 2, 2006" }}</h6>
         <h2 class="single-title">{{ .Title }}</h2>
         <h5 class="single-summary">{{ .Params.summary }}</h5>

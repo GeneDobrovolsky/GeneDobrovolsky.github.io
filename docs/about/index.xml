@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Hey, my name is Eugene</title>
+      <title>Hey, I&#39;m Eugene</title>
       <link>https://eugenedobrovolsky.com/about/about/</link>
       <pubDate>Thu, 31 May 2018 14:03:54 +0200</pubDate>
       
       <guid>https://eugenedobrovolsky.com/about/about/</guid>
-      <description>History Its started out as a hobby when I got into print design and typography. So, I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then at some 2013-2014 I got obsessed with Web Design and took a quick course on Treehouse. Shortly after that I started doing it for a living, but over the course on the next few years I gradually transitioned into doing just UI/UX.</description>
+      <description>My approach Functionality and simplicity. I believe, a great tool should feel like an extension of ourselves that helps us complete a task with as little effort as possible and at the same time help us enjoy the process. Like a well-designed set of kitchen tools and a balanced sharp knife can make our experience of making dinner relaxing and delightful.
+Quality and details. I believe user experience is inseparable from the visual aspect of a digital product.</description>
     </item>
     
     <item>
@@ -26,8 +27,9 @@
       <pubDate>Tue, 23 Jan 2018 17:12:04 +0200</pubDate>
       
       <guid>https://eugenedobrovolsky.com/about/colophon/</guid>
-      <description>This is not my first personal website. After a few years of having one that I updated maybe 2 or 3 times in a year I realized what I had was a bit of an overkill.
-My previous website was made on Wordpress and hosted on Mediatemple which cost me 20$/month + 15$/year for the domain + throwing in 50$/year Typekit subscription, which is optional, but it was the case.</description>
+      <description>Built I made it using a static site generator called Hugo - speed, security, simplicity. Nice blogging framework, requires a bit of coding, though.
+Hosted I&#39;m hosting it on Github Pages straight from a repository on GitHub for free.
+Type Typeset in Runda. It has the clarity and confidence that I think compliments my work.</description>
     </item>
     
   </channel>

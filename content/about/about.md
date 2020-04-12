@@ -1,6 +1,6 @@
 ---
-title: "Hey, my name is Eugene"
-summary: "I’m a Ukrainian Product Designer focusing on design systems and experiences for digital products. Based in Warsaw, Poland. Currently at Shoplo, aquired by SumUp."
+title: "Hey, I'm Eugene"
+summary: "Product Designer from Ukraine. Currently based in Warsaw, Poland."
 date: 2018-05-31T14:03:54+02:00
 draft: false
 type: "singles"
@@ -8,34 +8,44 @@ layout: "work"
 markup: mmark
 ---
 
-{}![](/images/about/profile-small.jpg)
-
-### History
-
-Its started out as a hobby when I got into print design and typography. So, I took a course in graphic design and learned the basics of color, composition, typography, and how to apply it in branding. Then at some 2013-2014 I got obsessed with Web Design and took a quick course on Treehouse. Shortly after that I started doing it for a living, but over the course on the next few years I gradually transitioned into doing just UI/UX. I realised I could create more value when I spent more time doing that.
-
-Now I'm thinking through design systems and designing experiences for large scale products.
-
-I've been a freelancer since 2014 and so far I've been mostly working with startups in Europe and the US.
+{}![](/images/about/profile-light.jpg)
 
 ### My approach
 
-I enjoy good design in all its forms and try to bring it into my life and work. To me simplicity and functionality are the most important qualities in digital experiences. And, of course, there must be a human element to it, so when the most important qualities are in place I try to make the experience delightful as well.
+Functionality and simplicity. I believe, a great tool should feel like an extension of ourselves that helps us complete a task with as little effort as possible and at the same time help us enjoy the process. Like a well-designed set of kitchen tools and a balanced sharp knife can make our experience of making dinner relaxing and delightful.
 
-I apply motion in interaction design. It helps make the experience intuitive and, therefore, creates more potential for the design to be used and provide value. For a more detailed insight into how I do what I do here's a post about [My Workflow](/posts/post_1).
+Quality and details. I believe user experience is inseparable from the visual aspect of a digital product. So, I start from the core of UX and finish with the fine visual details. I put a lot of care into details and make my designs with precision.
 
-I can humbly do what is needed for the project at any given moment, but I'm always concerned with a reason behind it. Recently, increasingly so. Knowing the reason and having a good one just helps me sit down to work. Also, it's probably the only way to do good design.
+Time. I like to think of design as my favorite hobby that gives me energy and adds quality to my life. My method has been taking shape over years and I've realized that I'm producing the best results while I'm enjoying the process at my own pace, consistently making inputs that over time build up into a whole.
 
-I am a designer, but I do a bit of coding as well. I am familiar with CSS/SASS, HTML and basic JS for interactions and prototyping. I've done a great deal of prototyping in Framer. And I am most comfortable working alongside developers.
+### Experience
 
-### In my free time
+I have over 4 years of experience working remotely with startups and 2 years as an in-house designer focusing on e-commerce solutions. 
+Over those years I designed admin dashboards and mobile apps, online stores, landing pages and marketing materials. Also, I've built and maintained quite a few design systems.
 
-I'm **learning to make music**. This is something I never thought I would do, but thanks to technology and good design everyone with a phone or a tablet can make a beat and layer a simple melody on top. I love doing that.
+Usually, those were large-scale projects lasting from 1 to 2,5 years. Such time frames allowed me to design digital products in a holistic way and with a long-term vision.
 
-**I read** with particular interest about evolution, integral theory, human interaction, psychology, common good, sustainable future, happiness, friendship, health and longevity. Occasionally, I read fiction.
+I am a designer, but I started out as a front-end developer, so I understand how my designs are going to be implemented. I know how I need to structure and document them for the most efficient design-development collaboration.
 
-I have an unintentional habit of **taking pictures** and I've yet to find out what to do with them after they've been taken and edited.
+[LinkedIn](https://www.linkedin.com/in/eugene-dobrovolsky/)
 
-**Cooking**. I enjoy the process and the sharing. Also, I thought, since I'm gonna have to eat for the rest of my life, why not learn how to make a delightful meal.
+### Skills
+Graphic Design <br>
+Creative Direction <br>
+UX / UI Design <br>
+Prototyping (hi + low) <br>
+Micro-interactions <br>
+Animation <br>
+CSS + HTML + JS
 
-**Cycling**. It just brings me joy. Bicycle is my main means of transportation.
+### Spare time
+
+I like to explore other areas of design as well as look into adjacent domains of creativity like architecture and urban planning, engineering, space. 
+
+When I'm not reading fiction I dig into evolution, philosophy, psychology. I find it fascinating to learn about systems and patterns in the universe.
+
+Hiking with a backpack and a tent once a few moths had become usual during my years as a full-time in-house designer.
+
+Cooking. I really enjoy the process and the sharing. Also, I thought, since I'm gonna have to eat for the rest of my life, why not learn how to make a decent meal.
+
+For years bicycle has been my means of transportation and a great source of pleasure. I love it.
